@@ -1,24 +1,37 @@
 site_name: Alex Aiken
 site_author: Alex Aiken
 site_description: "Alex Aiken's personal academic site (converted to MkDocs)"
-repo_url: ''
+site_url: "https://theory.stanford.edu/~aiken/"
+
+extra_css:
+  - stylessheet/theme2.css
+
+nav:
+  - Home: index.md
+  - Contact: '/#contact'
+  - FAQ: 'personal/faq.md'
+  - Publications: 'publications/index.md'
+  - Software: 'software/index.md'
+  - Bio: '/#bio'
+  - Teaching: '/#teaching'
+  - Research: '#research'
+  - Misc: '#misc'
+  - Current Students: '#students'
+  - Graduated Students: 'phds.md'
 
 theme:
-  name: 'material'
-  favicon: assets/stanford-block-s-favicon.svg
+  name: material
+  favicon: https://www-media.stanford.edu/assets/favicon/apple-touch-icon-57x57.png
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme: light)"
+      scheme: custom
       toggle:
-        icon: material/brightness-3
+        icon: material/weather-night
         name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: custom
       toggle:
-        icon: material/brightness-5
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - content.code.annotate
@@ -69,16 +82,3 @@ plugins:
   - blog:
       authors_file: .authors
   - glightbox
-
-nav:
-  - Home: index.md
-  - Contact: '/#contact'
-  - FAQ: 'personal/faq.md'
-  - Publications: 'publications/index.md'
-  - Software: 'software/index.md'
-  - Bio: '/#bio'
-  - Teaching: '/#teaching'
-  - Research: '#research'
-  - Misc: '#misc'
-  - Current Students: '#students'
-  - Graduated Students: 'phds.md'

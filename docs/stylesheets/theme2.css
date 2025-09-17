@@ -1,0 +1,60 @@
+/* styles/stanford-colors.css */
+
+/* Light scheme (data-md-color-scheme="custom") */
+:root,
+[data-md-color-scheme="custom"] {
+  /* Brand primaries */
+  --md-primary-fg-color: #8c1515; /* Stanford Cardinal */
+  --md-primary-fg-color--light: #a61b1b;
+  --md-primary-fg-color--dark: #6f1010;
+
+  /* Accent for links/buttons */
+  --md-accent-fg-color: #006cb8; /* Stanford Accent Blue */
+  --md-accent-fg-color--transparent: color-mix(in oklab, #006cb8 15%, transparent);
+
+  /* Optional: slightly warm background akin to Light Sand */
+  --md-default-bg-color: #f4f4f4; /* comment out if you prefer pure white */
+  --md-default-fg-color: #1f1f1f;
+
+  /* Code blocks and chips */
+  --md-code-bg-color: #f6f6f6;
+  --md-typeset-a-color: var(--md-accent-fg-color);
+
+  /* Controls */
+  --md-primary-bg-color: var(--md-primary-fg-color);
+  --md-accent-bg-color: var(--md-accent-fg-color);
+}
+
+/* Dark scheme (same "custom" name but scoped by prefers-color-scheme) */
+@media (prefers-color-scheme: dark) {
+  [data-md-color-scheme="custom"] {
+    /* Base slate-like contrast */
+    --md-default-bg-color: #0f1115;
+    --md-default-fg-color: #e6e6e6;
+
+    /* Keep Cardinal as primary */
+    --md-primary-fg-color: #8c1515;
+    --md-primary-fg-color--light: #b11c1c;
+    --md-primary-fg-color--dark: #5e0e0e;
+
+    /* Accent: lighter blue improves contrast on dark bg */
+    --md-accent-fg-color: #66a9c9;
+    --md-accent-fg-color--transparent: color-mix(in oklab, #66a9c9 20%, transparent);
+
+    --md-code-bg-color: #141821;
+    --md-typeset-a-color: var(--md-accent-fg-color);
+  }
+}
+
+/* Optional: fine-tune link focus/hover to meet WCAG contrast */
+.md-typeset a:hover,
+.md-typeset a:focus {
+  text-decoration: underline;
+}
+
+/* Optional: chip, button, and nav highlights using brand colors */
+:root,
+[data-md-color-scheme="custom"] {
+  --md-accent-fg-color--hover: color-mix(in oklab, var(--md-accent-fg-color) 85%, white);
+  --md-primary-fg-color--hover: color-mix(in oklab, var(--md-primary-fg-color) 85%, white);
+}
