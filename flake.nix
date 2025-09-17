@@ -10,7 +10,6 @@
         devShell = pkgs.mkShell {
           buildInputs = with pkgs; [
             uv
-            taplo
             marksman
           ];
         };
