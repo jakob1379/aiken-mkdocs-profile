@@ -67,8 +67,13 @@ plugins:
   - glightbox
 
 nav:
-  - Home: 'index.md'
+  - Contact: 'contact.md'
   - FAQ: 'https://theory.stanford.edu/~aiken/personal/email.html'
   - Publications: 'https://theory.stanford.edu/~aiken/publications/publications.html'
   - Software: 'https://theory.stanford.edu/~aiken/personal/software.html'
+  - Bio: 'bio.md'
+  - Teaching: 'teaching.md'
+  - Research: 'research.md'
+  - Misc: 'misc.md'
+  - Current Students: 'students.md'
   - Graduated Students: 'https://theory.stanford.edu/~aiken/phds.html'
