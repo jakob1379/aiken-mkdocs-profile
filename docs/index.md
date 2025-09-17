@@ -6,7 +6,10 @@
   Alcatel-Lucent Professor, Stanford University<br>
   Computer Science Division Director, SLAC
   </p>
-  ![Alex Aiken](personal/pictures/aiken2024.jpg){ width="300" align=right }
+  ![Alex Aiken](personal/pictures/aiken2024.jpg){ width="300" loading=lazy align=right }
+  /// caption
+  [past portraits](alternatepics.md)
+  ///
 </div>
 
 ## Contact Information {#contact}

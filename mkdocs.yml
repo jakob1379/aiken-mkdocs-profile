@@ -4,7 +4,7 @@ site_description: "Alex Aiken's personal academic site (converted to MkDocs)"
 site_url: "https://theory.stanford.edu/~aiken/"
 
 extra_css:
-  - stylessheet/theme2.css
+  - stylesheets/stanford-theme.css
 
 nav:
   - Home: index.md
@@ -24,12 +24,16 @@ theme:
   favicon: https://www-media.stanford.edu/assets/favicon/apple-touch-icon-57x57.png
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: custom
+      scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: custom
+      scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -76,7 +80,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
 plugins:
   - search
   - blog:
