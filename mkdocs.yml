@@ -65,3 +65,15 @@ plugins:
   - blog:
       authors_file: .authors
   - glightbox
+
+nav:
+  - Contact: 'index.md#contact'
+  - FAQ: 'https://theory.stanford.edu/~aiken/personal/email.html'
+  - Publications: 'https://theory.stanford.edu/~aiken/publications/publications.html'
+  - Software: 'https://theory.stanford.edu/~aiken/personal/software.html'
+  - Bio: 'index.md#bio'
+  - Teaching: 'index.md#teaching'
+  - Research: 'index.md#research'
+  - Misc: 'index.md#misc'
+  - Current Students: 'index.md#students'
+  - Graduated Students: 'https://theory.stanford.edu/~aiken/phds.html'

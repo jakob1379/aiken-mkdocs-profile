@@ -9,7 +9,7 @@
   ![Alex Aiken](personal/pictures/aiken2024.jpg){ width="300" align=right }
 </div>
 
-## Contact Information
+## Contact Information {#contact}
 
 <div class="grid cards" markdown>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-## Biographical Sketch
+## Biographical Sketch {#bio}
 
 Alex Aiken is the Alcatel-Lucent Professor of Computer Science at Stanford. Alex received his
 Bachelors degree in Computer Science and Music from [Bowling Green State
@@ -47,7 +47,7 @@ have a son [Tim](http://timaiken.org) and a daughter
 - 2/2024 Here are the talks and slides from the 2024 [Legion
   Retreat](https://legion.stanford.edu/retreat2024/).
 
-## Teaching
+## Teaching {#teaching}
 
 - [CS242: Programming Languages](http://www.stanford.edu/class/cs242)
 - [CS315B: Programming Supercomputers](http://www.stanford.edu/class/cs315b)
@@ -61,7 +61,7 @@ have a son [Tim](http://timaiken.org) and a daughter
 - [Stanford Software Seminar](sss.md)
 - The weekly software [research lunch](http://software-research-lunch.stanford.edu).
 
-## Research Projects
+## Research Projects {#research}
 
 - [FlexFlow](https://flexflow.ai) is a system for automatically finding fast parallelization
   strategies for deep learning training and inference. FlexFlow is built on Legion (see below).
@@ -71,10 +71,9 @@ have a son [Tim](http://timaiken.org) and a daughter
   - A [Legion tutorial](http://theory.stanford.edu/~aiken/ecp)
 
 I also maintain a page of [past research projects](pastprojects.md) and a set of
-[pages](http://theory.stanford.edu/~aiken/misc/index.html) internal to current projects. <span
-id="misc"></span>
+[pages](http://theory.stanford.edu/~aiken/misc/index.html) internal to current projects.
 
-## Miscellany
+## Miscellany {#misc}
 
 - Here's a recent [trip
   report](https://medium.com/@aaiken/the-50-to-80-a-tahoe-ski-traverse-59cce89bd0d8) from a winter
@@ -96,7 +95,7 @@ id="misc"></span>
   on their hands can check out the trip's [web
   page](http://infolab.stanford.edu/~widom/yearoff.html).
 
-## Current Ph.D. and Postdoctoral Students
+## Current Ph.D. and Postdoctoral Students {#students}
 
 - [Benjamin Driscoll](https://github.com/willtunnels)
 - Qiantan Hong
