@@ -2,7 +2,8 @@ site_name: Alex Aiken
 site_author: Alex Aiken
 site_description: "Alex Aiken's personal academic site (converted to MkDocs)"
 site_url: "https://theory.stanford.edu/~aiken/"
-
+repo_url: https://github.com/jakob1379/aiken-mkdocs-profile
+repo_name: aiken-mkdocs-profile
 extra_css:
   - stylesheets/stanford-theme.css
 
