@@ -1,15 +1,14 @@
-## Publications
+# Publications #
 
-#### Books and Book Articles
+## Books and Book Articles ##
 
-1.
 2.  Multifidelity modeling of irradiated particle-laden turbulence
     subject to uncertainty.L. Jofre, M. Papadakis, P. T. Roy, A. Aiken
     and G. Iaccarino. International Journal for Uncertainty
     Quantification 10 (6), 2020.
 3.  [S3D-Legion: An Exascale Software for Direct Numerical Simulation of
     Turbulent Combustion with Complex Multicomponent
-    Chemistry](http://theory.stanford.edu/~aiken/publications/papers/S3D17.pdf).S.
+    Chemistry](https://theory.stanford.edu/~aiken/publications/papers/S3D17.pdf).S.
     Treichler, M. Bauer, A. Bhagatwala, G. Borghesi, R. Sankaran, H.
     Kolla, P. McCormick, E. Slaughter, W. Lee, A. Aiken and J.
     Chen.In T. Straatsma, et al., editors, *Exascale Scientific
@@ -26,16 +25,15 @@
     for Parallel Computing*, pages 1-16, MIT Press, Cambridge,
     Massachusetts,1990.
 
-#### Refereed Journal Articles
+## Refereed Journal Articles ##
 
-6.
 7.  [Quanto: Optimizing Quantum Circuits with Automatic Generation of
     Circuit
     Identities.](https://iopscience.iop.org/article/10.1088/2058-9565/ad5b16/pdf)J.
     Pointing, O. Padon, Z. Jia, H. Ma, A. Hirth, J. Palsberg and A.
     Aiken.Quantum Science and Technology, to appear, 2024.
 8.  [Training with Mixed-Precision Floating-Point
-    Assignments](http://theory.stanford.edu/~aiken/publications/papers/tmlr23.pdf).W.
+    Assignments](https://theory.stanford.edu/~aiken/publications/papers/tmlr23.pdf).W.
     Lee, R. Sharma, and A. Aiken.Transactions on Machine Learning
     Research, to appear.
 9.  [Multinode Multi-GPU Two-Electron Integrals: Code Generation Using
@@ -49,29 +47,29 @@
     Aiken, K. Bergman, M. Hattink and M. Seok.IEEE Internet Computing,
     25(3): 2021.
 11. [A Distributed Multi-GPU System for Fast Graph
-    Processing.](http://theory.stanford.edu/~aiken/publications/papers/vldb17.pdf) Z.
+    Processing.](https://theory.stanford.edu/~aiken/publications/papers/vldb17.pdf) Z.
     Jia, Y. Kwon, G. Shipman, P. McCormick, M. Erez, and A. Aiken.
     PVLDB, 11(3): 2017.
 12. [From Invariant Checking to Invariant Inference Using Randomized
-    Search](http://theory.stanford.edu/~aiken/publications/papers/fmsd16.pdf)
+    Search](https://theory.stanford.edu/~aiken/publications/papers/fmsd16.pdf)
     (invited paper).R. Sharma and A. Aiken.Formal Methods in System
     Design,48(3), pages 235-256, March, 2016.
 13. [Stochastic Program
-    Optimization.](http://theory.stanford.edu/~aiken/publications/papers/cacm16.pdf)E.
+    Optimization.](https://theory.stanford.edu/~aiken/publications/papers/cacm16.pdf)E.
     Schkufza, R. Sharma and A. Aiken. *Communications of the
     ACM*,research highlight,59(2):114-122,February, 2016.
 14. [An Introduction to Data Representation
-    Synthesis.](http://theory.stanford.edu/~aiken/publications/papers/cacm13.pdf)P.
+    Synthesis.](https://theory.stanford.edu/~aiken/publications/papers/cacm13.pdf)P.
     Hawkins, A. Aiken, K. Fisher, M. Rinard, and M. Sagiv.
     *Communications of the ACM*,research
     highlight,55(12):91-99,December, 2012.
 15. [Cuts from Proofs: A Complete and Practical Technique for Solving
     Linear Inequalities Over
-    Integers](http://theory.stanford.edu/~aiken/publications/papers/fmsd11.pdf).I.
+    Integers](https://theory.stanford.edu/~aiken/publications/papers/fmsd11.pdf).I.
     Dillig, T. Dillig and A. Aiken. *Formal Methods in System Design*
     ,invited paper, 39:246-260, January 2011.
 16. [Reasoning About the Unknown in Static
-    Analysis](http://theory.stanford.edu/~aiken/publications/papers/cacm10.pdf).I.
+    Analysis](https://theory.stanford.edu/~aiken/publications/papers/cacm10.pdf).I.
     Dillig, T. Dillig and A. Aiken. *Communications of the ACM*,research
     highlight,53(8):115-123, August 2010.
 17. [A Capability Calculus for Concurrency and
@@ -83,7 +81,7 @@
     *Transactions on Programming Languages and Systems*,30(3):1-42,
     2008.
 19. [Saturn: A Scalable Framework for Error Detection using Boolean
-    Satisfiability](http://theory.stanford.edu/~aiken/publications/papers/saturn_toplas.pdf).Y.
+    Satisfiability](https://theory.stanford.edu/~aiken/publications/papers/saturn_toplas.pdf).Y.
     Xie and A. Aiken. *Transactions on Programming Languages and
     Systems*,29(3):1-16, 2007.
 20. [Flow-Insensitive Type Qualifiers](papers/toplastq.pdf). J.
@@ -100,28 +98,28 @@
     (invited paper)Z. Su, A. Aiken, and M. Fähndrich.*Software Tools for
     Technology Transfer,*3(2000):93-105.
 23. [Introduction to Set Constraint-Based Program
-    Analysis.](http://theory.stanford.edu/~aiken/publications/papers/scp99.pdf) A.
+    Analysis.](https://theory.stanford.edu/~aiken/publications/papers/scp99.pdf) A.
     Aiken. *Science of Computer Programming*, 35(1999):79-111, 1999.
 24. [Optimal Representations of Polymorphic Types with
-    Subtyping.](http://theory.stanford.edu/~aiken/publications/papers/hosc99.pdf) A.
+    Subtyping.](https://theory.stanford.edu/~aiken/publications/papers/hosc99.pdf) A.
     Aiken, E. Wimmers, J. Palsberg. *Higher-Order and Symbolic
     Computation*, 12(3), October 1999.
 25. [Resource-Constrained Software
-    Pipelining,](http://theory.stanford.edu/~aiken/publications/papers/ieeetpds95.pdf) A.
+    Pipelining,](https://theory.stanford.edu/~aiken/publications/papers/ieeetpds95.pdf) A.
     Aiken, A. Nicolau, and S. Novack. *IEEE Transactions on Distributed
     and Parallel Systems*, 6(12):1248-1270, December 1995.
 26. [Decidability of Systems of Set Constraints with Negative
-    Constraints.](http://theory.stanford.edu/~aiken/publications/papers/ic95.pdf) A.
+    Constraints.](https://theory.stanford.edu/~aiken/publications/papers/ic95.pdf) A.
     Aiken, D. Kozen, and E. Wimmers. *Information and Computation*,
     122(1):30-44,October 1995.
 27. [Static Analysis Techniques for Predicting the Behavior of Active
     Database
-    Rules](http://theory.stanford.edu/~aiken/publications/papers/tods95.pdf).A.
+    Rules](https://theory.stanford.edu/~aiken/publications/papers/tods95.pdf).A.
     Aiken, J. Widom, and J. M. Hellerstein. *ACM Transactions on
     Database Systems,* 20(1):63-84, March 1995.
 28. [Safe-A Semantic Technique for Transforming Programs in the Presence
     of
-    Errors.](http://theory.stanford.edu/~aiken/publications/papers/toplas95.pdf)A.
+    Errors.](https://theory.stanford.edu/~aiken/publications/papers/toplas95.pdf)A.
     Aiken, J. Williams, and E. Wimmers. *ACM Transactions on Programming
     Languages and Systems*, 17(1):63-84, January 1995.
 29. [A Theory of Compaction-Based
@@ -132,11 +130,11 @@
     Nicolau, K. Pingali and A. Aiken. *Journal of Supercomputing,*
     2(3):279-295, November 1988.
 31. [A Development Environment for Horizontal
-    Microcode](http://theory.stanford.edu/~aiken/publications/papers/ieeetse88.pdf)
+    Microcode](https://theory.stanford.edu/~aiken/publications/papers/ieeetse88.pdf)
     (revised). A. Aiken and A. Nicolau. *IEEE Transactions on Software
     Engineering*,14(5): 584-594, May 1988.
 
-#### Refereed Conference and Workshop Articles
+## Refereed Conference and Workshop Articles ##
 
 31. D. Zhang, R. Yadav, A. Aiken, F Kjolstad, and S.
     Treichler.KDRSolvers: Scalable, Flexible, Task-Oriented Krylov
@@ -161,7 +159,7 @@
 
 35. [High-Performance Branch-Free Algorithms for Extended-Precision
     Floating-Point
-    Arithmetic](http://theory.stanford.edu/~aiken/publications/papers/sc25.pdf).D.
+    Arithmetic](https://theory.stanford.edu/~aiken/publications/papers/sc25.pdf).D.
     Zhang and A. Aiken.Proceedings of the International Conference on
     Supercomputing, November, 2025.
 
@@ -171,12 +169,12 @@
     Conference on Machine Learning, July, 2025.
 
 37. [LogCloud: Fast Search of Compressed Logs on Object
-    Storage](http://theory.stanford.edu/~aiken/publications/papers/vldb25.pdf).Z.
+    Storage](https://theory.stanford.edu/~aiken/publications/papers/vldb25.pdf).Z.
     Wang, J. Wei, A. Aiken, G. Zhang, J. Toerring, R. Jiang, C. Jiang
     and W. Xu.Proceedings of the VLDB, September, 2025.
 
 38. [Automatic Verification of Floating-Point Accumulation
-    Networks](http://theory.stanford.edu/~aiken/publications/papers/cav25.pdf).D.
+    Networks](https://theory.stanford.edu/~aiken/publications/papers/cav25.pdf).D.
     Zhang and A. Aiken.Proceedings of the Conference on Computer Aided
     Verification, July, 2025.
 
@@ -186,7 +184,7 @@
     Programming Language Design and Implementation, June, 2025.
 
 40. [Rottnest: Indexing Data Lakes for
-    Search](http://theory.stanford.edu/~aiken/publications/papers/icde25.pdf).Z.
+    Search](https://theory.stanford.edu/~aiken/publications/papers/icde25.pdf).Z.
     Wang, C. Kennedy, R. Jiang, W. Pace, H. Zhang, A. Aiken.Proceedings
     of the International Conference on Data Engineering, May, 2025.
 
@@ -204,48 +202,48 @@
 
 43. [CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU,
     Multi-NIC
-    Nodes](http://theory.stanford.edu/~aiken/publications/papers/ics24.pdf).M.
+    Nodes](https://theory.stanford.edu/~aiken/publications/papers/ics24.pdf).M.
     Hidayetoglu, S. Garcia de Gonzalo, E. Slaughter, Y. Li, C.
     Zimmer, T. Bicer, B. Ren, W. Gropp, W. Hwu, A. Aiken.Proceedings of
     the International Conference on Supercomputing, June, 2024.
 
 44. [Recursive Program Synthesis Using
-    Paramorphisms](http://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf).Q.
+    Paramorphisms](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf).Q.
     Hong and A. Aiken. Proceedings of the Conference on Programming
     Language Design and Implementation, June, 2024.
 
 45. [Efficient Fault Tolerance for Pipelined Query Engines via
     Write-ahead
-    Lineage](http://theory.stanford.edu/~aiken/publications/papers/icde24.pdf).Z.
+    Lineage](https://theory.stanford.edu/~aiken/publications/papers/icde24.pdf).Z.
     Wang and A. Aiken. Proceedings of the International Conference on
     Data Engineering,May, 2024.
 
 46. [Speaking Pygion: Experiences Writing anExascale Single Particle
     Imaging
-    Code](http://theory.stanford.edu/~aiken/publications/papers/wamta24.pdf).S.
+    Code](https://theory.stanford.edu/~aiken/publications/papers/wamta24.pdf).S.
     Mirchandaney, A. Aiken and E. Slaughter.Proceedings of the Workshop
     on Asynchronous Many-Task Systems and Applications,February, 2024.
 
 47. [Automated Mapping of Task-Based Programs onto Distributedand
     Heterogeneous
-    Machines](http://theory.stanford.edu/~aiken/publications/papers/sc23a.pdf).T.
+    Machines](https://theory.stanford.edu/~aiken/publications/papers/sc23a.pdf).T.
     Teixeira, A. Henzinger, R. Yadav and A. Aiken. Proceedings of the
     International Conference on Supercomputing,November, 2023.
 
 48. [Legate Sparse: Distributed Sparse Computing in
-    Python](http://theory.stanford.edu/~aiken/publications/papers/sc23b.pdf).R.
+    Python](https://theory.stanford.edu/~aiken/publications/papers/sc23b.pdf).R.
     Yadav, W. Lee, M. Elibol, T. Patti, M. Papadakis, M. Garland, A.
     Aiken, F. Kjoldstad, M. Bauer.Proceedings of the International
     Conference on Supercomputing,November, 2023.
 
 49. [Prolego: Time-Series Analysis for Predicting Failuresin Complex
-    Systems](http://theory.stanford.edu/~aiken/publications/papers/ascos23.pdf).A.
+    Systems](https://theory.stanford.edu/~aiken/publications/papers/ascos23.pdf).A.
     Das and A. Aiken.Proceedings of the Conference on Autonomic
     Computing and Self-Organizing Systems,July, 2023.
 
 50. [On the Correctness of Automatic Differentiation for Neural Networks
     with Machine-Representable
-    Parameters](http://theory.stanford.edu/~aiken/publications/papers/icml23.pdf).W.
+    Parameters](https://theory.stanford.edu/~aiken/publications/papers/icml23.pdf).W.
     Lee, S. Park and A. Aiken.Proceedings of the International
     Conference on Machine Learning,September, 2023.
 
@@ -258,83 +256,83 @@
 
 52. [Visibility Algorithms for Dynamic Dependence Analysis and
     Distributed
-    Coherence](http://theory.stanford.edu/~aiken/publications/papers/ppopp23.pdf).M.
+    Coherence](https://theory.stanford.edu/~aiken/publications/papers/ppopp23.pdf).M.
     Bauer, E. Slaughter, S. Treichler, W. Lee, M. Garland and A.
     Aiken.Proceedings of Principles and Practice of Parallel
     Programming,February, 2023.
 
 53. [Task Fusion in Distributed
-    Runtimes](http://theory.stanford.edu/~aiken/publications/papers/pawatm22.pdf).S.
+    Runtimes](https://theory.stanford.edu/~aiken/publications/papers/pawatm22.pdf).S.
     Sundram, W. Lee and A. Aiken.Proceedings of the Workshop on the
     Parallel Applications Workshop, Alternatives to MPI+X, November,
     2022.
 
 54. [Performance Variability and Causality in Complex
-    Systems](http://theory.stanford.edu/~aiken/publications/papers/acsos22.pdf).A.
+    Systems](https://theory.stanford.edu/~aiken/publications/papers/acsos22.pdf).A.
     Das, D. Ratner and A. Aiken.Proceedings of the International
     Conference on Autonomic Computing and Self-Organizing Systems,
     September, 2022.
 
 55. [SpDISTAL: Compiling Distributed Sparse Tensor
-    Computations](http://theory.stanford.edu/~aiken/publications/papers/sc22.pdf).R.
+    Computations](https://theory.stanford.edu/~aiken/publications/papers/sc22.pdf).R.
     Yadav, A. Aiken and F. Kjolstad.Proceedings of the International
     Conference on Supercomputing, November, 2022.
 
 56. [Accelerating DNN Training Through Joint Optimization of Algebraic
     Transformations and
-    Parallelization](http://theory.stanford.edu/~aiken/publications/papers/osdi22.pdf).C.
+    Parallelization](https://theory.stanford.edu/~aiken/publications/papers/osdi22.pdf).C.
     Unger,Z. Jia,W. Wu,S. Lin,M. Baines,C. E. Q. Narvaez,V.
     Ramakrishnaiah,N. Prajapati,P. McCormick,J. Mohd-Yusof,X. Luo,D.
     Mudigere,J. Park,M. Smelyanskiy andA. Aiken.Proceedings of the
     Symposium on Operating System Design and Implementation, July 2022.
 
 57. [Programmatic Concept Learning for Human Motion Description and
-    Synthesis](http://theory.stanford.edu/~aiken/publications/papers/cvpr22.pdf). S.
+    Synthesis](https://theory.stanford.edu/~aiken/publications/papers/cvpr22.pdf). S.
     Kulal, J. Mao, A. Aiken and J. Wu.Proceedings of the Conference on
     Computer Vision and Pattern Recognition,June 2022.
 
 58. [DISTAL: The Distributed Tensor Algebra
-    Compiler](http://theory.stanford.edu/~aiken/publications/papers/pldi22a.pdf).R.
+    Compiler](https://theory.stanford.edu/~aiken/publications/papers/pldi22a.pdf).R.
     Yadav, A. Aiken and F. Kjolstad.Proceedings of the Conference on
     Programming Language Design and Implementation, June 2022.
 
 59. [Quartz: Superoptimization of Quantum
-    Circuits](http://theory.stanford.edu/~aiken/publications/papers/pldi22b.pdf).M.
+    Circuits](https://theory.stanford.edu/~aiken/publications/papers/pldi22b.pdf).M.
     Xu, Z. Li, O. Padon, S. Lin, J. Pointing, A. Hirth, H. Ma, J.
     Palsberg, A. Aiken, U. Acar and Z. Jia.Proceedings of the Conference
     on Programming Language Design and Implementation, June 2022.
 
 60. [Inferring Invariants with Quantifier Alternations: Taming the
     Search Space
-    Explosion](http://theory.stanford.edu/~aiken/publications/papers/TACAS22.pdf).J.
+    Explosion](https://theory.stanford.edu/~aiken/publications/papers/TACAS22.pdf).J.
     Koenig, O. Padon, S. Shoham, and A. Aiken. Proceedings of the
     International Conference on Tools and Algorithms for the
     Construction and Analysis of Systems (TACAS).April, 2022.
 
 61. [Induction Duality: Primal-Dual Search for
-    Invariants](http://theory.stanford.edu/~aiken/publications/papers/popl22.pdf).O.
+    Invariants](https://theory.stanford.edu/~aiken/publications/papers/popl22.pdf).O.
     Padon, J. R. Wilcox, J. R. Koenig, K. McMillan, and A.
     Aiken.Proceedings of the Symposium on Principles of Programming
     Languages,January, 2022.
 
 62. [Index Launches: Scalable, Flexible Representation of Parallel Task
-    Groups](http://theory.stanford.edu/~aiken/publications/papers/sc21.pdf).R.
+    Groups](https://theory.stanford.edu/~aiken/publications/papers/sc21.pdf).R.
     Soi, M. Bauer, S. Treichler, M. Papadakis, W. Lee, P. McCormick, A.
     Aiken and E. Slaughter.Proceedings of the International Conference
     on Supercomputing,November, 2021.
 
 63. [Adaptive Restarts for Stochastic
-    Synthesis](http://theory.stanford.edu/~aiken/publications/papers/pldi21.pdf).J.
+    Synthesis](https://theory.stanford.edu/~aiken/publications/papers/pldi21.pdf).J.
     Koenig, O. Padon and A. Aiken.Proceedings of the Conference on
     Programming Language Design and Implementation, June 2021.
 
 64. [Hierarchical Motion Understanding via Motion
-    Programs](http://theory.stanford.edu/~aiken/publications/papers/cvpr21.pdf).S.
+    Programs](https://theory.stanford.edu/~aiken/publications/papers/cvpr21.pdf).S.
     Kulal, J. Mao, A. Aiken and J. Wu.Proceedings of the Conference on
     Computer Vision and Pattern Recognition,June 2021.
 
 65. [Scaling Implicit Parallelism via Dynamic Control
-    Replication](http://theory.stanford.edu/~aiken/publications/papers/ppopp21.pdf).M
+    Replication](https://theory.stanford.edu/~aiken/publications/papers/ppopp21.pdf).M
     Bauer, W. Lee, E. Slaughter, Z. Jia, M. Di Renzo, M. Papadakis, G.
     Shipman, P. McCormick, M. Garland, A. Aiken.Proceedings of
     Principles and Practice of Parallel Programming,February, 2021.
@@ -346,190 +344,190 @@
 
 67. [Task Bench: A Parameterized Benchmark for Evaluating Parallel
     Runtime
-    Performance](http://theory.stanford.edu/~aiken/publications/papers/sc20.pdf).E.
+    Performance](https://theory.stanford.edu/~aiken/publications/papers/sc20.pdf).E.
     Slaughter, W. Wu, Y. Fu, L. Brandenburg, N. Garcia, E. Marx, K.S.
     Morris, Q. Cao, G. Bosilca, S. Mirchandaney, W. Lee, S. Treichler, P
     McCormick and A. Aiken.Proceedings of the International Conference
     on Supercomputing,November, 2020.
 
 68. [Redundancy-Free Computation Graphs for Graph Neural
-    Networks](http://theory.stanford.edu/~aiken/publications/papers/kdd20.pdf).Z.Jia, S.
+    Networks](https://theory.stanford.edu/~aiken/publications/papers/kdd20.pdf).Z.Jia, S.
     Lin, R. Ying, J. You, J. Leskovec and A. Aiken.Proceedings of the
     International Conference on Knowledge Discovery and Data Mining,
     August 2020.
 
 69. [First-Order Quantified
-    Separators](http://theory.stanford.edu/~aiken/publications/papers/pldi20.pdf),J.
+    Separators](https://theory.stanford.edu/~aiken/publications/papers/pldi20.pdf),J.
     Koenig, O. Padon, N. Immerman and A. Aiken.Proceedings of the
     Conference on Programming Language Design and Implementation, June
     2020.
 
 70. [Improving the Accuracy, Scalability, and Performance of Graph
     Neural Networks with
-    Roc](http://theory.stanford.edu/~aiken/publications/papers/mlsys20.pdf),Z.
+    Roc](https://theory.stanford.edu/~aiken/publications/papers/mlsys20.pdf),Z.
     Jia, S. Lin, M. Gao, M. Zaharia and A. Aiken.Proceedings of the
     Conference on Machine Learning and Systems, March 2020.
 
 71. [Pygion: Flexible, Scalable Task-Based Parallelism with
-    Python](http://theory.stanford.edu/~aiken/publications/papers/paw19a.pdf),E.
+    Python](https://theory.stanford.edu/~aiken/publications/papers/paw19a.pdf),E.
     Slaughter and A. Aiken.Proceedings of the Workshop on the Parallel
     Applications Workshop, Alternatives to MPI+X,November, 2019.
 
 72. [Soleil-X: Turbulence, Particles, and Radiation in the Regent
     Programming
-    Language](http://theory.stanford.edu/~aiken/publications/papers/paw19b.pdf),H.
+    Language](https://theory.stanford.edu/~aiken/publications/papers/paw19b.pdf),H.
     Torres, M. Papadakis, L. Jofre, W. Lee, A. Aiken, and G.
     Iaccarino.Proceedings of the Workshop on the Parallel Applications
     Workshop, Alternatives to MPI+X,November, 2019.
 
 73. [A Constraint-Based Approach to Automatic Data Partitioning for
     Distributed Memory
-    Execution](http://theory.stanford.edu/~aiken/publications/papers/sc19.pdf),W.
+    Execution](https://theory.stanford.edu/~aiken/publications/papers/sc19.pdf),W.
     Lee, M. Papadakis, E. Slaughter and A. Aiken.Proceedings of the
     International Conference on Supercomputing,November, 2019.
 
 74. [TASO: Optimizing Deep Learning Computation with Automated
     Generation of Graph
-    Substitutions](http://theory.stanford.edu/~aiken/publications/papers/sosp19.pdf),Z.
+    Substitutions](https://theory.stanford.edu/~aiken/publications/papers/sosp19.pdf),Z.
     Jia, O. Padon, J. Thomas, T. Warszawski, M. Zaharia, A.
     Aiken.Proceedings of the Symposium on Operating Systems
     Principles,October, 2019.
 
 75. [Eventually Sound Points-To Analysis with
-    Specifications](http://theory.stanford.edu/~aiken/publications/papers/ecoop19.pdf),O.
+    Specifications](https://theory.stanford.edu/~aiken/publications/papers/ecoop19.pdf),O.
     Bastani, R. Sharma, L. Clapp, S. Anand and A. Aiken.Proceedings of
     the European Conference on Object-Oriented Programming,July, 2019.
     ([Extended
-    version](http://theory.stanford.edu/~aiken/publications/papers/ecoop19ext.pdf)
+    version](https://theory.stanford.edu/~aiken/publications/papers/ecoop19ext.pdf)
     with proofs.)
 
 76. [Semantic Program Alignment for Equivalence
-    Checking](http://theory.stanford.edu/~aiken/publications/papers/pldi19.pdf).B.
+    Checking](https://theory.stanford.edu/~aiken/publications/papers/pldi19.pdf).B.
     Churchill, O. Padon, R Sharma and A. Aiken.Proceedings of the
     Conference on Programming Language Design and Implementation,June,
     2019.
 
 77. [Beyond Data and Model Parallelism for Deep Neural
-    Networks](http://theory.stanford.edu/~aiken/publications/papers/sysml19a.pdf).Z.
+    Networks](https://theory.stanford.edu/~aiken/publications/papers/sysml19a.pdf).Z.
     Jia, M. Zaharia and A. Aiken.Proceedings of the SysML
     Conference,April, 2019.
 
 78. [Optimizing DNN Computation With Relaxed Graph
-    Substitutions](http://theory.stanford.edu/~aiken/publications/papers/sysml19b.pdf).Z.
+    Substitutions](https://theory.stanford.edu/~aiken/publications/papers/sysml19b.pdf).Z.
     Jia, J. Thomas, T. Warszawski, M. Gao, M. Zaharia and A.
     Aiken.Proceedings of the SysML Conference,April, 2019.
 
 79. [Correctness of Dynamic Dependence Analysis for Implicitly Parallel
     Tasking
-    Systems](http://theory.stanford.edu/~aiken/publications/papers/correctness2018.pdf). W.
+    Systems](https://theory.stanford.edu/~aiken/publications/papers/correctness2018.pdf). W.
     Lee, G. Stelle, P. McCormick and A. Aiken.Proceedings of the
     International Workshop on Software Correctness for HPC
     Applications,November, 2018.
 
 80. [Dynamic Tracing: Just-In-Time Specialization of Task Graphs for
     Dynamic Task-based
-    Runtimes](http://theory.stanford.edu/~aiken/publications/papers/sc18.pdf).W.
+    Runtimes](https://theory.stanford.edu/~aiken/publications/papers/sc18.pdf).W.
     Lee, E. Slaughter, M. Bauer, S. Treichler, T. Warszawski, M. Garland
     and A. Aiken.Proceedings of the International Conference on
     Supercomputing,November, 2018.
 
 81. [Exploring Hidden Dimensions in Parallelizing Convolutional Neural
-    Networks](http://theory.stanford.edu/~aiken/publications/papers/icml18.pdf),Z.
+    Networks](https://theory.stanford.edu/~aiken/publications/papers/icml18.pdf),Z.
     Jia, S. Lin, C. R. Qi and A. Aiken.Proceedings of the International
     Conference on Machine Learning,July 2018. [Extended
-    version](http://theory.stanford.edu/~aiken/publications/papers/icml18full.pdf)
+    version](https://theory.stanford.edu/~aiken/publications/papers/icml18full.pdf)
     with proofs.
 
 82. [Active Learning of Points-To
-    Specifications](http://theory.stanford.edu/~aiken/publications/papers/pldi18.pdf).O.
+    Specifications](https://theory.stanford.edu/~aiken/publications/papers/pldi18.pdf).O.
     Bastani, R. Sharma, A. Aiken and P. Liang.Proceedings of the
     Conference on Programming Language Design and Implementation,June
     2018.
 
 83. [Isometry: A Path-Based Distributed Data Transfer
-    System](http://theory.stanford.edu/~aiken/publications/papers/ics18.pdf).Z.
+    System](https://theory.stanford.edu/~aiken/publications/papers/ics18.pdf).Z.
     Jia, S. Treichler, G. Shipman, P. McCormick and A. Aiken.Proceedings
     of the International Conference on Supercomputing,June 2018.
 
 84. [On Automatically Proving the Correctness of math.h
-    Implementations](http://theory.stanford.edu/~aiken/publications/papers/popl18.pdf), W.
+    Implementations](https://theory.stanford.edu/~aiken/publications/papers/popl18.pdf), W.
     Lee, R. Sharma and A. Aiken.Proceedings of the Symposium on
     Principles of Programming Languages,January 2018.
 
 85. [Integrating External Resources with a Task-Based Programming
-    Model](http://theory.stanford.edu/~aiken/publications/papers/hipc17.pdf).Z.
+    Model](https://theory.stanford.edu/~aiken/publications/papers/hipc17.pdf).Z.
     Jia, S. Treichler, G. Shipman, M. Bauer, N. Watkins, C. Maltzahn, P.
     McCormick and A. Aiken.Proceedings of the International Conference
     on High Performance Computing, Data, and Analytics,December 2017.
 
 86. [Seam: Provably Safe Local Edits on
-    Graphs](http://theory.stanford.edu/~aiken/publications/papers/oopsla17.pdf).M.
+    Graphs](https://theory.stanford.edu/~aiken/publications/papers/oopsla17.pdf).M.
     Papadakis, G. Bernstein, R. Sharma, A. Aiken and P.
     Hanrahan.Proceedings of the International Conference on
     Object-Oriented Programming, Systems, Languages, and Applications,
     November 2017.
 
 87. [In situ Visualization with Task-Based
-    Parallelism](http://theory.stanford.edu/~aiken/publications/papers/sc17b.pdf),A.
+    Parallelism](https://theory.stanford.edu/~aiken/publications/papers/sc17b.pdf),A.
     Heirich, E. Slaughter, M. Papadakis, W. Lee, T. Biedert and A.
     Aiken.Proceedings of the Workshop on In Situ Infrastructures for
     Enabling Extreme-scale Analysis and Visualization,November 2017.
 
 88. [Control Replication: Compiling Implicit Parallelism to Efficient
     SPMD with Logical
-    Regions.](http://theory.stanford.edu/~aiken/publications/papers/sc17.pdf)E.
+    Regions.](https://theory.stanford.edu/~aiken/publications/papers/sc17.pdf)E.
     Slaughter, W. Lee, S. Treichler, W. Zhang, M. Bauer, G. Shipman, P.
     McCormick and A. Aiken.Proceedings of the Conference on
     Supercomputing, November 2017.
 
 89. [Synthesizing Program Input
-    Grammars](http://theory.stanford.edu/~aiken/publications/papers/pldi17.pdf).O.
+    Grammars](https://theory.stanford.edu/~aiken/publications/papers/pldi17.pdf).O.
     Bastani, R. Sharma, A. Aiken and P. Liang.Proceedings of the
     Conference on Programming Language Design and Implementation,pages
     95-110, June 2017.([Extended
-    version](http://theory.stanford.edu/~aiken/publications/papers/pldi17_extended.pdf)
+    version](https://theory.stanford.edu/~aiken/publications/papers/pldi17_extended.pdf)
     with proofs)
 
 90. [Sound Loop Superoptimization for Google Native
-    Client](http://theory.stanford.edu/~aiken/publications/papers/asplos17.pdf).B.
+    Client](https://theory.stanford.edu/~aiken/publications/papers/asplos17.pdf).B.
     Churchill, R. Sharma, J.-F. Bastien and A. Aiken.Proceedings of the
     Conference on Architectural Support for Programming Languages and
     Operating Systems,pages 313-326, April 2017.
 
 91. [Minimizing GUI Event
-    Traces](http://theory.stanford.edu/~aiken/publications/papers/fse16.pdf).L.
+    Traces](https://theory.stanford.edu/~aiken/publications/papers/fse16.pdf).L.
     Clapp, O. Bastani, S. Anand and A. Aiken.Proceedings of the
     International Symposium on the Foundations of Software
     Engineering.pages 422-434, November 2016.
 
 92. [Dependent
-    Partitioning](http://theory.stanford.edu/~aiken/publications/papers/oopsla16.pdf).S.
+    Partitioning](https://theory.stanford.edu/~aiken/publications/papers/oopsla16.pdf).S.
     Treichler, M. Bauer, R. Sharma, E. Slaughter and A.
     Aiken.Proceedings of the International Conference on Object-Oriented
     Programming, Systems, Languages, and Applications, pages 344-358,
     November 2016.
 
 93. [Stratified Synthesis: Automatically Learning the x86-64 Instruction
-    Set](http://theory.stanford.edu/~aiken/publications/papers/pldi16a.pdf),S.
+    Set](https://theory.stanford.edu/~aiken/publications/papers/pldi16a.pdf),S.
     Heule, E. Schkufza, R. Sharma and A. Aiken.Proceedings of the
     Conference on Programming Language Design and Implementation,pages
     237-250, June 2016.
 
 94. [Verifying Bit-Manipulations of
-    Floating-Point](http://theory.stanford.edu/~aiken/publications/papers/pldi16b.pdf),W.
+    Floating-Point](https://theory.stanford.edu/~aiken/publications/papers/pldi16b.pdf),W.
     Lee, R. Sharma and A. Aiken.Proceedings of the Conference on
     Programming Language Design and Implementation,pages 70-84, June
     2016.
 
 95. [Towards Asynchornous Many-Task In Situ Data Analysis Using
-    Legion](http://theory.stanford.edu/~aiken/publications/papers/ipdps16.pdf),P.
+    Legion](https://theory.stanford.edu/~aiken/publications/papers/ipdps16.pdf),P.
     Pebay, J. Bennett, D. Hollman, S. Treichler, P. McCormick, C.
     Sweeney, H. Kolla and A. Aiken.Proceedings of the International
     Parallel Processing and Distributed Processing Symposium,May 2016
 
 96. [Analysis of Application Sensitivity to System Performance
     Variability in a Dynamic Task Based
-    Runtime](http://theory.stanford.edu/~aiken/publications/papers/respa15.pdf),G.
+    Runtime](https://theory.stanford.edu/~aiken/publications/papers/respa15.pdf),G.
     Shipman, P. McCormick, K. Pedretti, S. Olivier, K. Ferreira, R.
     Sankaran, S. Treichler, A. Aiken and M. Bauer.Proceedings of the
     Workshop on Runtime Systems for Extreme Scale Programming Models and
@@ -537,157 +535,157 @@
 
 97. [Automatic and Transparent I/O Optimization With Storage Integrated
     Application Runtime
-    Support](http://theory.stanford.edu/~aiken/publications/papers/pdsw15.pdf),N.
+    Support](https://theory.stanford.edu/~aiken/publications/papers/pdsw15.pdf),N.
     Watkins, Z. Jia, G. Shipman,C. Maltzahn, A. Aiken and P.
     McCormick.Proceedings of the Parallel Data Storage Workshop,November
     2015.
 
 98. [Regent: A High-Productivity Programming Language for HPC with
     Logical
-    Regions](http://theory.stanford.edu/~aiken/publications/papers/sc15.pdf),E.
+    Regions](https://theory.stanford.edu/~aiken/publications/papers/sc15.pdf),E.
     Slaughter, W. Lee, S. Treichler, M. Bauer and A. Aiken.Proceedings
     of the Conference on Supercomputing, November 2015.
 
 99. [An Interactive Approach to Mobile App
-    Verification](http://theory.stanford.edu/~aiken/publications/papers/mobiledeli15.pdf),O.
+    Verification](https://theory.stanford.edu/~aiken/publications/papers/mobiledeli15.pdf),O.
     Bastani, S. Anand and A. Aiken.Proceedings of the Workshop on Mobile
     Development Lifecycle,pages 45-46, October 2015.
 
 100. [Conditionally Correct
-     Superoptimization](http://theory.stanford.edu/~aiken/publications/papers/oopsla15a.pdf),R.
+     Superoptimization](https://theory.stanford.edu/~aiken/publications/papers/oopsla15a.pdf),R.
      Sharma, E. Schkufza, B. Churchill and A. Aiken.Proceedings of the
      International Conference on Object-Oriented Programming, Systems,
      Languages, and Applications, pages 147-162, October 2015.
 
 101. [Interactively Verifying Absence of Explicit Information Flows in
      Android
-     Apps](http://theory.stanford.edu/~aiken/publications/papers/oopsla2015b.pdf),O.
+     Apps](https://theory.stanford.edu/~aiken/publications/papers/oopsla2015b.pdf),O.
      Bastani, S. Anand and A. Aiken.Proceedings of the International
      Conference on Object-Oriented Programming, Systems, Languages, and
      Applications, pages 299-315, October 2015.
 
 102. [Modelgen: Mining Explicit Information Flow Specifications from
      Concrete
-     Executions](http://theory.stanford.edu/~aiken/publications/papers/issta15.pdf),L.
+     Executions](https://theory.stanford.edu/~aiken/publications/papers/issta15.pdf),L.
      Clapp, S. Anand and A. Aiken.Proceedings of the International
      Symposium on Software Testing and Analysis,pages 129-140, July
      2015.
 
 103. [Composing Concurrency
-     Control](http://theory.stanford.edu/~aiken/publications/papers/pldi15b.pdf),O.
+     Control](https://theory.stanford.edu/~aiken/publications/papers/pldi15b.pdf),O.
      Ziv, A. Aiken, G. Golan-Gueta, G. Ramalingam and M.
      Sagiv.Proceedings of the Conference on Programming Language Design
      and Implementation,pages 240-249, June 2015.
 
 104. [Verification of Producer-Consumer Synchronization in GPU
-     Programs](http://theory.stanford.edu/~aiken/publications/papers/pldi15a.pdf),M.
+     Programs](https://theory.stanford.edu/~aiken/publications/papers/pldi15a.pdf),M.
      Bauer, R. Sharma and A. Aiken.Proceedings of the Conference on
      Programming Language Design and Implementation,pages 88-98, June
      2015.
 
 105. [Specification Inference Using Context-Free Language
-     Reachability](http://theory.stanford.edu/~aiken/publications/papers/popl15.pdf),O.
+     Reachability](https://theory.stanford.edu/~aiken/publications/papers/popl15.pdf),O.
      Bastani, S. Anand and A. Aiken.Proceedings of the Symposium on
      Principles of Programming Languages,pages 553-566, January 2015.
 
 106. [Structure Slicing: Extending Logical Regions with
-     Fields](http://theory.stanford.edu/~aiken/publications/papers/sc14.pdf).M.
+     Fields](https://theory.stanford.edu/~aiken/publications/papers/sc14.pdf).M.
      Bauer, S. Treichler, E. Slaughter and A. Aiken.Proceedings of the
      Conference on Supercomputing, pages 845-856, November 2014.
 
 107. [Apposcopy: Semantics-Based Detection of Android Malware Through
      Static
-     Analysis](http://theory.stanford.edu/~aiken/publications/papers/fse14.pdf).Y.
+     Analysis](https://theory.stanford.edu/~aiken/publications/papers/fse14.pdf).Y.
      Feng, S. Anand, I. Dillig and A. Aiken.Proceedings of the
      International Symposium on Foundations of Software
      Engineering.pages 576-587, November 2014.
 
 108. [Realm: An Event-Based Low-Level Runtime for Distributed Memory
-     Architectures](http://theory.stanford.edu/~aiken/publications/papers/pact14.pdf).S.
+     Architectures](https://theory.stanford.edu/~aiken/publications/papers/pact14.pdf).S.
      Treichler, M. Bauer and A. Aiken.Proceedings of the International
      Conference on Parallel Architectures and Compilations
      Techniques.pages 263-276, August 2014.
 
 109. [Verifying Atomicity via Data
-     Independence](http://theory.stanford.edu/~aiken/publications/papers/issta14.pdf).O.
+     Independence](https://theory.stanford.edu/~aiken/publications/papers/issta14.pdf).O.
      Shacham, E. Yahav, G. Gueta, A. Aiken, N. Bronson, M. Sagiv and M.
      Vechev.Proceedings of the International Symposium on Software
      Testing and Analysis.pages 26-36, July 2014.
 
 110. [From Invariant Checking to Invariant Inference Using Randomized
-     Search](http://theory.stanford.edu/~aiken/publications/papers/cav14.pdf).R.
+     Search](https://theory.stanford.edu/~aiken/publications/papers/cav14.pdf).R.
      Sharma and A. Aiken.Proceedings of the International Conference on
      Computer Aided Verification.pages 88-105, Juy 2014.
 
 111. [M3: High-Performance Memory Management from Off-the-Shelf
-     Components](http://theory.stanford.edu/~aiken/publications/papers/ismm14.pdf).D.
+     Components](https://theory.stanford.edu/~aiken/publications/papers/ismm14.pdf).D.
      Terei, A. Aiken and J. Vitek. Proceedings of the International
      Symposium on Memory Management.pages 3-13, June 2014.
 
 112. [Stochastic Optimization of Floating Point Programs with Tunable
-     Precision](http://theory.stanford.edu/~aiken/publications/papers/pldi14a.pdf).E.
+     Precision](https://theory.stanford.edu/~aiken/publications/papers/pldi14a.pdf).E.
      Schkufza, E. Sharma and A. Aiken.Proceedings of the Conference on
      Programming Language Design and Implementation.pages 53-64, June
      2014.
 
 113. [First-class Runtime Generation of High-performance Types using
-     Exotypes](http://theory.stanford.edu/~aiken/publications/papers/pldi14b.pdf).Z.
+     Exotypes](https://theory.stanford.edu/~aiken/publications/papers/pldi14b.pdf).Z.
      DeVito, D. Ritchie, M. Fisher, A. Aiken and P. Hanrahan.Proceedings
      of the Conference on Programming Language Design and
      Implementation.pages 77-88, June 2014.
 
 114. [Singe: Leveraging Warp Specialization for High Performance on
-     GPUs](http://theory.stanford.edu/~aiken/publications/papers/ppopp14.pdf).M.
+     GPUs](https://theory.stanford.edu/~aiken/publications/papers/ppopp14.pdf).M.
      Bauer, S. Treichler and A.Aiken.Proceedings of the Symposium on
      Principles and Practice of Parallel Programming,pages 119-130,
      February 2014.
 
 115. [Bias-Variance Tradeoffs in Program
-     Analysis](http://theory.stanford.edu/~aiken/publications/papers/popl14.pdf).R.
+     Analysis](https://theory.stanford.edu/~aiken/publications/papers/popl14.pdf).R.
      Sharma, A. Aiken and A. Nori.Proceedings of the Symposium on
      Principles of Programming Languages,pages 127-137, January 2014.
 
 116. [Language Support for Dynamic, Hierarchical Data
-     Partitioning.](http://theory.stanford.edu/~aiken/publications/papers/oopsla13a.pdf)S.
+     Partitioning.](https://theory.stanford.edu/~aiken/publications/papers/oopsla13a.pdf)S.
      Treichler, M. Bauer and A. Aiken. Proceedings of the International
      Conference on Object-Oriented Programming, Systems, Languages, and
      Applications, pages 495-514, October 2013.
 
      ([Extended
-     version](http://theory.stanford.edu/~aiken/publications/papers/oopsla13a-extended.pdf)
+     version](https://theory.stanford.edu/~aiken/publications/papers/oopsla13a-extended.pdf)
      with proofs)
 
 117. [Data-Driven Equivalence
-     Checking](http://theory.stanford.edu/~aiken/publications/papers/oopsla13b.pdf).R.
+     Checking](https://theory.stanford.edu/~aiken/publications/papers/oopsla13b.pdf).R.
      Sharma, E. Schkufza, B. Churchill and A. Aiken. Proceedings of the
      International Conference on Object-Oriented Programming, Systems,
      Languages, and Applications, pages 391-406, October 2013.
 
 118. [Crowd-scale Interactive Formal Reasoning and
-     Analytics](http://theory.stanford.edu/~aiken/publications/papers/uist13.pdf).E.
+     Analytics](https://theory.stanford.edu/~aiken/publications/papers/uist13.pdf).E.
      Fast, C. Lee, A. Aiken, M. Bernstein, D. Koller and E.
      Smith.Proceedings of the Symposium on User Interface Software and
      Technology,pages 363-372, October, 2013.
 
 119. [Verification as Learning Geometric
-     Concepts](http://theory.stanford.edu/~aiken/publications/papers/sas13.pdf).R.
+     Concepts](https://theory.stanford.edu/~aiken/publications/papers/sas13.pdf).R.
      Sharma, S. Gupta, B. Hariharan, A. Aiken and A. Nori.Proceedings of
      the Static Analysis Symposium,pages 388-411, June 2013.
 
 120. [Terra: A Multi-Stage Language for High Performance
-     Computing](http://theory.stanford.edu/~aiken/publications/papers/pldi13.pdf).Z.
+     Computing](https://theory.stanford.edu/~aiken/publications/papers/pldi13.pdf).Z.
      DeVito, J. Hegarty, A. Aiken, P. Hanrahan and J. Vitek.Proceedings
      of the Conference on Programming Language Design and
      Implementation,pages 105-116, June 2013.
 
 121. [A Data Driven Approach for Algebraic Loop
-     Invariants](http://theory.stanford.edu/~aiken/publications/papers/esop13.pdf).R.
+     Invariants](https://theory.stanford.edu/~aiken/publications/papers/esop13.pdf).R.
      Sharma, S. Gupta, B. Hariharan, A. Aiken, P. Liang and A. V.
      Nori.Proceedings of the European Symposium on Programming,pages
      574-592, March 2013.
 
 122. [Stochastic
-     Superoptimization](http://theory.stanford.edu/~aiken/publications/papers/asplos13.pdf).E.
+     Superoptimization](https://theory.stanford.edu/~aiken/publications/papers/asplos13.pdf).E.
      Schkufza, R. Sharma and A. Aiken.Proceedings of the International
      Conference on Architectural Support for Programming Languages and
      Operating Systems,pages 305-316, March 2013.
@@ -697,162 +695,162 @@
      page.
 
 123. [Legion: Expressing Locality and Independence with Logical
-     Regions](http://theory.stanford.edu/~aiken/publications/papers/sc12.pdf).M.
+     Regions](https://theory.stanford.edu/~aiken/publications/papers/sc12.pdf).M.
      Bauer, S. Treichler, E. Slaughter and A. Aiken.Proceedings of the
      Conference on Supercomputing, pages 1-11, November 2012.
 
 124. [Understanding the Behavior of Database Operations under Program
-     Control](http://theory.stanford.edu/~aiken/publications/papers/oopsla12.pdf).J.
+     Control](https://theory.stanford.edu/~aiken/publications/papers/oopsla12.pdf).J.
      Tamayo, A. Aiken, N. Bronson and M. Sagiv.Proceedings of the
      International Conference on Object-Oriented Programming, Systems,
      Languages, and Applications, pages 983-996, October 2012.
 
 125. [Interpolants as
-     Classifiers](http://theory.stanford.edu/~aiken/publications/papers/cav12a.pdf).R.
+     Classifiers](https://theory.stanford.edu/~aiken/publications/papers/cav12a.pdf).R.
      Sharma, A. Nori and A. Aiken. Proceedings of the International
      Conference on Computer Aided Verification,pages 71-87, July 2012.
 
 126. [Minimum Satisfying Assignments for
-     SMT](http://theory.stanford.edu/~aiken/publications/papers/cav12b.pdf).I.
+     SMT](https://theory.stanford.edu/~aiken/publications/papers/cav12b.pdf).I.
      Dillig, T. Dillig, K. McMillan and A. Aiken. Proceedings of the
      International Conference on Computer Aided Verification.pages
      394-409, July 2012.
 
 127. [Automated Error Diagnosis Using Abductive
-     Inference](http://theory.stanford.edu/~aiken/publications/papers/pldi12b.pdf).I.
+     Inference](https://theory.stanford.edu/~aiken/publications/papers/pldi12b.pdf).I.
      Dillig, T. Dillig and A. Aiken. Proceedings of the Conference on
      Programming Language Design and Implementation, pages 181-192,June
      2012.
 
      ( [extended version with
-     proofs](http://theory.stanford.edu/~aiken/publications/pldi12b-extended.pdf))
+     proofs](https://theory.stanford.edu/~aiken/publications/pldi12b-extended.pdf))
 
 128. [Concurrent Data Representation
-     Synthesis](http://theory.stanford.edu/~aiken/publications/papers/pldi12a.pdf).P.
+     Synthesis](https://theory.stanford.edu/~aiken/publications/papers/pldi12a.pdf).P.
      Hawkins, A. Aiken, K. Fisher, M. Rinard, and M. Sagiv.Proceedings
      of the Conference on Programming Language Design and
      Implementation, pages 417-428,June 2012.
 
 129. [Reasoning About Lock
-     Placements](http://theory.stanford.edu/~aiken/publications/papers/esop12.pdf).P.
+     Placements](https://theory.stanford.edu/~aiken/publications/papers/esop12.pdf).P.
      Hawkins, A. Aiken, K. Fisher, M. Rinard, and M. Sagiv.Proceedings
      of the European Symposium on Programming, pages 336-356,March 2012.
 
 130. [Liszt: A Domain Specific Language for Building Portable Mesh-based
      PDE
-     Solvers](http://theory.stanford.edu/~aiken/publications/papers/sc11.pdf). Z.
+     Solvers](https://theory.stanford.edu/~aiken/publications/papers/sc11.pdf). Z.
      DeVito, N. Joubert, F. Palacios, S. Oakley, M. Medina, M.
      Barrientos, E. Elsen, F. Ham, A. Aiken,K. Duraisamy, E. Darve, J.
      Alonso, P. Hanrahan.Proceedings of the Conference on
      Supercomputing, pages 9:1-9:12, November 2011.
 
 131. [Testing Atomicity of Composed Concurrent
-     Operations.](http://theory.stanford.edu/~aiken/publications/papers/oopsla11b.pdf)O.
+     Operations.](https://theory.stanford.edu/~aiken/publications/papers/oopsla11b.pdf)O.
      Shacham, N. Bronson, A. Aiken, M. Sagiv, M. Vechev, and E.
      Yahav.Proceedings of the International Conference on
      Object-Oriented Programming, Systems, Languages, and Applications,
      pages 51-64, October 2011.
 
 132. [Automatic Fine-Grain Locking Using Shape
-     Properties.](http://theory.stanford.edu/~aiken/publications/papers/oopsla11a.pdf)G.
+     Properties.](https://theory.stanford.edu/~aiken/publications/papers/oopsla11a.pdf)G.
      Golan-Gueta, N. Bronson, A. Aiken, G. Ramalingam, M. Sagiv, E.
      Yahav.Proceedings of the International Conference on
      Object-Oriented Programming, Systems, Languages, and Applications,
      pages 225-242, October 2011.
 
 133. [Inferring Data Polymorphism in Systems
-     Code](http://theory.stanford.edu/~aiken/publications/papers/fse11.pdf).B.
+     Code](https://theory.stanford.edu/~aiken/publications/papers/fse11.pdf).B.
      Hackett and A. Aiken.Proceedings of the Symposium on Foundations of
      Software Engineering,pages 332-342, September 2011.
 
 134. [Simplifying Loop Invariant Generation Using Splitter
-     Predicates](http://theory.stanford.edu/~aiken/publications/papers/cav11.pdf).\[[Full
-     Paper](http://theory.stanford.edu/~aiken/publications/papers/cav11full.pdf)\]R.
+     Predicates](https://theory.stanford.edu/~aiken/publications/papers/cav11.pdf).\[[Full
+     Paper](https://theory.stanford.edu/~aiken/publications/papers/cav11full.pdf)\]R.
      Sharma, I. Dillig, T. Dillig, and A. Aiken.Proceedings of the
      International Conference on Computer Aided Verification.pages
      703-719, July 2011.
 
 135. [Online Detection of Multi-Component Interactions in Production
-     Systems](http://theory.stanford.edu/~aiken/publications/papers/dsn11.pdf).A.
+     Systems](https://theory.stanford.edu/~aiken/publications/papers/dsn11.pdf).A.
      Oliner and A. Aiken.Proceedings of the International Conference on
      Dependable Systems and Networks, pages 49-60, June 2011.
 
 136. [Data Representation
-     Synthesis](http://theory.stanford.edu/~aiken/publications/papers/pldi11b.pdf).P.
+     Synthesis](https://theory.stanford.edu/~aiken/publications/papers/pldi11b.pdf).P.
      Hawkins, A. Aiken, K. Fisher, M, Rinard and M. Sagiv.Proceedings of
      the Conference on Programming Language Design and
      Implementation,pages 38-49, June 2011.
 
 137. [Precise and Compact Modular Procedure Summaries for Heap
      Manipulating
-     Programs](http://theory.stanford.edu/~aiken/publications/papers/pldi11a.pdf).I.
+     Programs](https://theory.stanford.edu/~aiken/publications/papers/pldi11a.pdf).I.
      Dillig, T. Dillig, A. Aiken, and M. Sagiv.Proceedings of the
      Conference on Programming Language Design and Implementation.pages
      567-577, June 2011.
 
 138. [Programming the Memory Hierarchy Revisited: Supporting Irregular
      Parallelism in
-     Sequoia](http://theory.stanford.edu/~aiken/publications/papers/ppopp11.pdf).M.
+     Sequoia](https://theory.stanford.edu/~aiken/publications/papers/ppopp11.pdf).M.
      Bauer, J. Clark, E. Schkufza, and A. Aiken.Proceedings of the
      Symposium on Principles and Practice of Parallel Programming,pages
      13-24, February 2011.
 
 139. [Precise Reasoning for Programs Using
-     Containers](http://theory.stanford.edu/~aiken/publications/papers/popl11.pdf).I.
+     Containers](https://theory.stanford.edu/~aiken/publications/papers/popl11.pdf).I.
      Dillig, T. Dillig, and A. Aiken.Proceedings of the Symposium on
      Principles of Programming Languages,pages 187-200, January 2011.
 
 140. [Data Structure
-     Fusion](http://theory.stanford.edu/~aiken/publications/papers/aplas10.pdf).P.
+     Fusion](https://theory.stanford.edu/~aiken/publications/papers/aplas10.pdf).P.
      Hawkins, A. Aiken, K. Fisher, M.Rinard, and M. Sagiv.Proceedings of
      the Asian Symposium on Programming Languages and Systems, pages
      204-221, November 2010.
 
 141. [Symbolic Heap Abstraction with Demand-Driven Axiomatization of
      Memory
-     Invariants.](http://theory.stanford.edu/~aiken/publications/papers/oopsla10.pdf)I.
+     Invariants.](https://theory.stanford.edu/~aiken/publications/papers/oopsla10.pdf)I.
      Dillig, T. Dillig and A. Aiken.Proceedings of the International
      Conference on Object-Oriented Programming, Systems, Languages, and
      Applications, pages 397-410, October 2010.
 
 142. [Community Epidemic Detection using Time-Correlated
-     Anomalies.](http://theory.stanford.edu/~aiken/publications/papers/raid10.pdf)A.
+     Anomalies.](https://theory.stanford.edu/~aiken/publications/papers/raid10.pdf)A.
      Oliner, A. v. Kulkarni and A. Aiken.Proceedings of the
      International Symposium on Recent Advances in Intrusion Detection,
      pages 360-381, September 2010.
 
 143. [Small Formulas for Large Programs: On-line Constraint
      Simplification in Scalable Static
-     Analysis.](http://theory.stanford.edu/~aiken/publications/papers/sas10.pdf)I.
+     Analysis.](https://theory.stanford.edu/~aiken/publications/papers/sas10.pdf)I.
      Dillig, T. Dillig and A. Aiken.Proceedings of the International
      Static Analysis Symposium, pages 236-252, September 2010.
 
 144. [A Query Language for Understanding Component Interactions in
      Production
-     Systems.](http://theory.stanford.edu/~aiken/publications/papers/ics10.pdf)A.
+     Systems.](https://theory.stanford.edu/~aiken/publications/papers/ics10.pdf)A.
      Oliner and A. Aiken.Proceedings of the International Conference on
      Supercomputing, pages 201-210, June 2010.
 
 145. [Using Correlated Surprise to Infer Shared
-     Influence](http://theory.stanford.edu/~aiken/publications/papers/dsn10.pdf).A.
+     Influence](https://theory.stanford.edu/~aiken/publications/papers/dsn10.pdf).A.
      Oliner, A. V. Kulkarni and A. Aiken.Proceedings of the
      International Conference on Dependable Systems and Networks, pages
      191-200, June 2010.
 
 146. [Fluid Updates: Beyond Strong vs. Weak
-     Updates](http://theory.stanford.edu/~aiken/publications/papers/esop10.pdf).I.
+     Updates](https://theory.stanford.edu/~aiken/publications/papers/esop10.pdf).I.
      Dillig, T. Dillig and A. Aiken.Proceedings of the European
      Symposium on Programming, pages 246-266, March 2010.
 
 147. [Expanding the Frontiers of Computer Science: Designing a
      Curriculum to Reflect a Diverse
-     Field.](http://theory.stanford.edu/~aiken/publications/papers/sigcse10.pdf)M.
+     Field.](https://theory.stanford.edu/~aiken/publications/papers/sigcse10.pdf)M.
      Sahami, A. Aiken, and J. Zelenski.Proceedings of the Symposium on
      Computer Science Education, pages 47-51, March 2010.
 
 148. [Cuts from Proofs: A Complete and Practical Technique for Solving
      Linear Inequalities over
-     Integers](http://theory.stanford.edu/~aiken/publications/papers/cav09.pdf).I.
+     Integers](https://theory.stanford.edu/~aiken/publications/papers/cav09.pdf).I.
      Dillig, T. Dillig, and A. Aiken.Proceedings of the International
      Conference on Computer Aided Verification,pages 233-247, June 2009.
 
@@ -1000,202 +998,202 @@
      Design and Implementation*,pages 15-26, June 2005.
 
 177. [Scalable Error Detection using Boolean
-     Satisfiability](http://theory.stanford.edu/~aiken/publications/papers/popl05.pdf).Y.
+     Satisfiability](https://theory.stanford.edu/~aiken/publications/papers/popl05.pdf).Y.
      Xie and A. Aiken.*Proceedings of the ACM SIGPLAN Symposium on
      Principles of Programming Languages*,p. 351-363,January 2005.
 
 178. [The Set Constraint/CFL Reachability Connection in
-     Practice](http://theory.stanford.edu/~aiken/publications/papers/pldi04.pdf).J.
+     Practice](https://theory.stanford.edu/~aiken/publications/papers/pldi04.pdf).J.
      Kodumal and A. Aiken.In *Proceedings of the ACM SIGPLAN Conference
      on Programming Language Design and Implementation*,pages
      207-218,June 2004.
 
 179. [Public Deployment of Cooperative Bug
-     Isolation](http://theory.stanford.edu/~aiken/publications/papers/ramss04.pdf). B.
+     Isolation](https://theory.stanford.edu/~aiken/publications/papers/ramss04.pdf). B.
      Liblit, M. Naik, A. Zheng, A. Aiken, and M. I. Jordan.In
      *Proceedings of the Second International Workshop on Remote
      Analysis and Measurement of Software Systems (RAMSS)*,pages 57-62,
      May 2004.
 
 180. [Statistical Debugging of Sampled
-     Programs](http://theory.stanford.edu/~aiken/publications/nips03.pdf). A.
+     Programs](https://theory.stanford.edu/~aiken/publications/nips03.pdf). A.
      Zheng, M. I. Jordan, B. Liblit, and A. Aiken.*Advances in Neural
      Information Processing Systems 16 (NIPS)*,2004.
 
 181. [Type Systems for Distributed Data
-     Sharing](http://theory.stanford.edu/~aiken/publications/papers/sas03.pdf).B.
+     Sharing](https://theory.stanford.edu/~aiken/publications/papers/sas03.pdf).B.
      Liblit, A. Aiken, and K. Yelick. *Proceedings of the 2003 Static
      Analysis Symposium*,pages 273-294, June 2003.
 
 182. [Sampling User Executions for Bug
-     Isolation](http://theory.stanford.edu/~aiken/publications/papers/ramss03.pdf). B.
+     Isolation](https://theory.stanford.edu/~aiken/publications/papers/ramss03.pdf). B.
      Liblit, A. Aiken, A. Zheng, and M. I. Jordan.In *Proceedings of the
      First International Workshop on Remote Analysis and Measurement of
      Software Systems (RAMSS)*,pages 5-8, May 2003.
 
 183. [Bug Isolation via Remote Program
-     Sampling](http://theory.stanford.edu/~aiken/publications/papers/pldi03b.pdf).B.
+     Sampling](https://theory.stanford.edu/~aiken/publications/papers/pldi03b.pdf).B.
      Liblit, A. Aiken, A. Zheng, and M. I. Jordan.In *Proceedings of the
      ACM SIGPLAN Conference on Programming Language Design and
      Implementation*,pages 141-154, June 2003.
 
 184. [Checking and Inferring Local
-     Non-Aliasing](http://theory.stanford.edu/~aiken/publications/papers/pldi03a.pdf).A.
+     Non-Aliasing](https://theory.stanford.edu/~aiken/publications/papers/pldi03a.pdf).A.
      Aiken, J. Foster, J. Kodumal, and T. Terauchi.*Proceedings of the
      ACM SIGPLAN Conference on Programming Language Design and
      Implementation*,pages 129-140, June 2003.
 
 185. [Winnowing: Local Algorithms for Document
-     Fingerprinting](http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf).S.
+     Fingerprinting](https://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf).S.
      Schleimer, D. Wilkerson, and A. Aiken.In *Proceedings of the ACM
      SIGMOD International Conference on Management of Data*,pages 76-85,
      June 2003.
 
 186. [Flow-Sensitive Type
-     Qualifiers](http://theory.stanford.edu/~aiken/publications/papers/pldi02.pdf).J.
+     Qualifiers](https://theory.stanford.edu/~aiken/publications/papers/pldi02.pdf).J.
      Foster, T. Terauchi, and A. Aiken.In *Proceedings of the SIGPLAN
      Conference on Programming Language Design and Implementation*,pages
      1-12, June 2002.
 
 187. [First-Order Theory of Subtyping
-     Constraints](http://theory.stanford.edu/~aiken/publications/papers/popl02.pdf).Z.
+     Constraints](https://theory.stanford.edu/~aiken/publications/papers/popl02.pdf).Z.
      Su, A. Aiken, J. Niehren, T. Priesnitz, and R. Trienen.In
      *Proceedings of the ACM Symposium on Principles of Programming
      Languages*, pages 203-216, January 2002.
 
 188. [Language Support for
-     Regions](http://theory.stanford.edu/~aiken/publications/papers/pldi01.pdf).D.
+     Regions](https://theory.stanford.edu/~aiken/publications/papers/pldi01.pdf).D.
      Gay and A. Aiken. In *Proceedings of the SIGPLAN Conference on
      Programming Language Design and Implementation*,pages 70-80, June
      2001.
 
 189. [Entailment with Conditional Equality
-     Constraints](http://theory.stanford.edu/~aiken/publications/papers/esop01.pdf), Z.
+     Constraints](https://theory.stanford.edu/~aiken/publications/papers/esop01.pdf), Z.
      Su and A. Aiken. In *Proceedings of the European Symposium on
      Programming*, pages 170-189, April 2001.
 
 190. [Polymorphic versus Monomorphic Flow-Insensitive Points-to Analysis
      for
-     C](http://theory.stanford.edu/~aiken/publications/papers/sas00.pdf). J.
+     C](https://theory.stanford.edu/~aiken/publications/papers/sas00.pdf). J.
      Foster, M. Fähndrich, and A. Aiken. In *Proceedings of the 2000
      Static Analysis Symposium*, pages 175-198, June 2000.
 
 191. [A First Step Towards Automated Detection of Buffer Overrun
-     Vulnerabilities.](http://theory.stanford.edu/~aiken/publications/papers/netsec00.pdf)D.
+     Vulnerabilities.](https://theory.stanford.edu/~aiken/publications/papers/netsec00.pdf)D.
      Wagner, J. Foster, E. Brewer, and A. Aiken. In *Proceedings of the
      2000 Network and Distributed Systems Security Conference,* pages
      3-17, February 2000.
 
 192. [Type Systems for Distributed Data
-     Structures](http://theory.stanford.edu/~aiken/publications/papers/popl00a.pdf). B.
+     Structures](https://theory.stanford.edu/~aiken/publications/papers/popl00a.pdf). B.
      Liblit and A. Aiken. *Proceedings of the ACM Symposium on
      Principles of Programming Languages*, pages 199-213, January 2000.
 
 193. [Projection Merging: Reducing Redundancies in Inclusion Constraint
-     Graphs](http://theory.stanford.edu/~aiken/publications/papers/popl00b.pdf).M.
+     Graphs](https://theory.stanford.edu/~aiken/publications/papers/popl00b.pdf).M.
      Fähndrich, Z. Su, and A. Aiken. In *Proceedings of the ACM
      Symposium on Principles of Programming Languages,* pages 81-95,
      January 2000.
 
 194. [A Theory of Type
-     Qualifiers.](http://theory.stanford.edu/~aiken/publications/papers/pldi99.pdf) J.
+     Qualifiers.](https://theory.stanford.edu/~aiken/publications/papers/pldi99.pdf) J.
      Foster, M. Fähndrich, and A. Aiken. In *Proceedings of the SIGPLAN
      Conference on Programming Language Design and Implementation,*pages
      192-203, Atlanta, Georgia, June 1999.
 
 195. [Partial Online Cycle Elimination in Inclusion Constraint
-     Graphs.](http://theory.stanford.edu/~aiken/publications/papers/pldi98b.pdf) M.
+     Graphs.](https://theory.stanford.edu/~aiken/publications/papers/pldi98b.pdf) M.
      Fähndrich, J. Foster, Z. Su, and A. Aiken. In *Proceedings of the
      SIGPLAN Conference on Programming Language Design and
      Implementation,* pages 85-96, June 1998.
 
 196. [Memory Management with Explicit
-     Regions.](http://theory.stanford.edu/~aiken/publications/papers/pldi98a.pdf) D.
+     Regions.](https://theory.stanford.edu/~aiken/publications/papers/pldi98a.pdf) D.
      Gay and A. Aiken.In *Proceedings of the SIGPLAN Conference on
      Programming Language Design and Implementation,* pages 313-323,
      June 1998.
 
 197. [Detecting Races in Relay Ladder Logic
-     Programs.](http://theory.stanford.edu/~aiken/publications/papers/tacas98.pdf)
+     Programs.](https://theory.stanford.edu/~aiken/publications/papers/tacas98.pdf)
      (best paper award)A. Aiken, M. Fähndrich, and Z. Su. In
      *Proceedings of the 1st International Conference on Tools and
      Algorithms for the Construction and Analysis of Systems,* pages
      184-200, April 1998.
 
 198. [A Toolkit for Constructing Type- and Constraint-Based Program
-     Analyses](http://theory.stanford.edu/~aiken/publications/papers/tic98.pdf)
+     Analyses](https://theory.stanford.edu/~aiken/publications/papers/tic98.pdf)
      (invited paper).A. Aiken, M. Fähndrich, J. Foster, and Z. Su. In
      *Proceedings of the 2nd International Workshop on Types in
      Compilation,*LNCS \#1473, pages 76-96, March 1998.
 
 199. [Titanium: A High-Performance Java
-     Dialect.](http://theory.stanford.edu/~aiken/publications/papers/java98.pdf)K.
+     Dialect.](https://theory.stanford.edu/~aiken/publications/papers/java98.pdf)K.
      Yelick, L. Semenzato, G. Pike, C. Miyamoto, B. Liblit, A.
      Krishnamurthy, P. Hilfinger, S. Graham, D. Gay, P. Colella, and A.
      Aiken. In *Proceedings of the 1998 ACM Workshop on Java for High
      Performance Computing,*,pages 1-13, February, 1998.
 
 200. [Attack Resistant Trust Metrics for Public Key
-     Certification.](http://theory.stanford.edu/~aiken/publications/papers/usenix97.pdf) R.
+     Certification.](https://theory.stanford.edu/~aiken/publications/papers/usenix97.pdf) R.
      Levien and A. Aiken.In *Proceedings of the 7th USENIX Security
      Symposium,* pages 229-241, January, 1998.
 
 201. [Barrier
-     Inference.](http://theory.stanford.edu/~aiken/publications/papers/popl98.pdf) D.
+     Inference.](https://theory.stanford.edu/~aiken/publications/papers/popl98.pdf) D.
      Gay and A. Aiken. In *Proceedings of the Twenty-Fifth Annual ACM
      Sigplan Symposium on Principles of Programming Languages,* pages
      342-354, January, 1998.
 
 202. [Program Analysis Using Mixed Term and Set
-     Constraints.](http://theory.stanford.edu/~aiken/publications/papers/sas97.pdf) M.
+     Constraints.](https://theory.stanford.edu/~aiken/publications/papers/sas97.pdf) M.
      Fähndrich and A. Aiken. In *Proceedings of the 4th International
      Static Analysis Symposium,*pages 114-126, September, 1997.
 
 203. [Optimal Representations of Polymorphic Types with Subtyping
      (Extended
-     Abstract)](http://theory.stanford.edu/~aiken/publications/papers/tacs97.pdf).A.
+     Abstract)](https://theory.stanford.edu/~aiken/publications/papers/tacs97.pdf).A.
      Aiken, E. Wimmers, and J. Palsberg.*Theoretical Aspects of Computer
      Software (TACS),*September, 1997.
 
 204. [Refined Type Inference for
-     ML.](http://theory.stanford.edu/~aiken/publications/papers/tic97.pdf) M.
+     ML.](https://theory.stanford.edu/~aiken/publications/papers/tic97.pdf) M.
      Fähndrich and A. Aiken. In *Proceedings of the 1st Workshop on
      Types in Compilation,*June 1997.
 
 205. [Making Set-Constraint Program Analyses
-     Scale.](http://theory.stanford.edu/~aiken/publications/papers/scw96.pdf) M.
+     Scale.](https://theory.stanford.edu/~aiken/publications/papers/scw96.pdf) M.
      Fähndrich and A. Aiken. *The CP'96 Workshop on Set Constraints*,
      August, 1996.Available as UC Berkeley Computer Science Technical
      Report UCB//CSD-96-917.
 
 206. [Tioga-2: A Direct Manipulation Database Visualization
-     Environment.](http://theory.stanford.edu/~aiken/publications/papers/icde96.pdf) A.
+     Environment.](https://theory.stanford.edu/~aiken/publications/papers/icde96.pdf) A.
      Aiken, J. Chen, M. Stonebraker, and A. Woodruff.*Proceedings of the
      12th International Conference on Data Engineering*,pages 208-217,
      February, 1996.
 
 207. [The Tioga-2 Database Visualization
-     Environment.](http://theory.stanford.edu/~aiken/publications/papers/vis95.pdf) A.
+     Environment.](https://theory.stanford.edu/~aiken/publications/papers/vis95.pdf) A.
      Aiken, J. Chen, M. Lin, M. Spalding, M. Stonebraker, and A.
      Woodruff.In Wierse, Grinstein and Lang (Eds.), Database Issues for
      DataVisualization, *IEEE Visualization '95 Workshop*,October 1995
      (LNCS v. 1183).
 
 208. [Dynamic Typing vs. Subtype
-     Inference.](http://theory.stanford.edu/~aiken/publications/papers/fpca95.pdf) A.
+     Inference.](https://theory.stanford.edu/~aiken/publications/papers/fpca95.pdf) A.
      Aiken and M. Fähndrich. In *Proceedings of the Eighth Conference on
      Functional Programming and Computer Architecture*,pages 182-191,
      June 1995.
 
 209. [Better Static Memory Management: Improvements to Region-Based
      Analysis of Higher-Order
-     Languages.](http://theory.stanford.edu/~aiken/publications/papers/pldi95.pdf) A.
+     Languages.](https://theory.stanford.edu/~aiken/publications/papers/pldi95.pdf) A.
      Aiken, M. Fähndrich, and R. Levien. In *Proceedings of the  SIGPLAN
      Conference on Programming Language Design and Implementation,*pages
      174-185, June 1995.Also available as Berkeley CS Report CSD-95-866.
 
 210. [Navigation and Coordination Primitives for Multidimensional
-     Browsers.](http://theory.stanford.edu/~aiken/publications/papers/visdata95.pdf)A.
+     Browsers.](https://theory.stanford.edu/~aiken/publications/papers/visdata95.pdf)A.
      Woodruff, A. Su, M. Stonebraker, C. Paxson, J. Chen, A. Aiken, P.
      Wisnovsky, and C. Taylor. In Stefano Spaccapietra and Ramesh Jain
      (Eds.), *Visual Database Systems 3: Visual Information Management
@@ -1204,111 +1202,108 @@
 
 211. [Zooming and Tunneling in Tioga: Supporting Navigation in
      Multidimensional
-     Space.](http://theory.stanford.edu/~aiken/publications/papers/vl94.pdf)A.
+     Space.](https://theory.stanford.edu/~aiken/publications/papers/vl94.pdf)A.
      Woodruff, P. Wisnovsky, C. Taylor, M. Stonebraker, C. Paxson, J.
      Chen, and A. Aiken.In *Proceedings of the IEEE Symposium on Visual
      Languages,*pages 191-193, October 1994.
 
 212. [Directional Type Checking of Logic
-     Programs.](http://theory.stanford.edu/~aiken/publications/papers/sas94.pdf)A.
+     Programs.](https://theory.stanford.edu/~aiken/publications/papers/sas94.pdf)A.
      Aiken and T. K. Lakshman. In *Proceedings of the 1st International
      Static Analysis Symposium,* pages 43-64, September 1994.
 
 213. [Using the Run-Time Sizes of Data Structures to Guide Parallel
      Thread
-     Creation.](http://theory.stanford.edu/~aiken/publications/papers/lfp94.pdf)L.
+     Creation.](https://theory.stanford.edu/~aiken/publications/papers/lfp94.pdf)L.
      Huelsbergen, J. Larus, and A. Aiken. In *Proceedings of the 1994
      Symposium on Lisp and Functional Programming,* pages 79-90, June
      1994.
 
 214. [Set Constraints: Results, Applications, and Future
-     Directions.](http://theory.stanford.edu/~aiken/publications/papers/ppcp94.pdf) A.
+     Directions.](https://theory.stanford.edu/~aiken/publications/papers/ppcp94.pdf) A.
      Aiken. In *Proceedings of the Second Workshop on the Principles and
      Practice of Constraint Programming,* pages 326-335, May 1994.
 
 215. [Soft Typing with Conditional
-     Types.](http://theory.stanford.edu/~aiken/publications/papers/popl94.pdf) A.
+     Types.](https://theory.stanford.edu/~aiken/publications/papers/popl94.pdf) A.
      Aiken, E. Wimmers, and T.K. Lakshman. In *Proceedings of the
      Twenty-First Annual ACM Symposium on Principles of Programming
      Languages,*pages 163-173, January 1994.
 
 216. [The Complexity of Set
-     Constraints.](http://theory.stanford.edu/~aiken/publications/papers/csl93.pdf) A.
+     Constraints.](https://theory.stanford.edu/~aiken/publications/papers/csl93.pdf) A.
      Aiken, D. Kozen, M. Vardi, and E. Wimmers. In *Proceedings of
      Computer Science Logic 1993,* pages 1-17, September 1993.
 
 217. [Type Inclusion Constraints and Type
-     Inference.](http://theory.stanford.edu/~aiken/publications/papers/fpca93.pdf)A.
+     Inference.](https://theory.stanford.edu/~aiken/publications/papers/fpca93.pdf)A.
      Aiken and E. Wimmers. In *Proceedings of the Seventh ACM Conference
      on Functional Programming and Computer Architecture*,pages 31-41,
      June 1993.
 
 218. [Solving Systems of Set
-     Constraints.](http://theory.stanford.edu/~aiken/publications/papers/lics92.pdf) A.
+     Constraints.](https://theory.stanford.edu/~aiken/publications/papers/lics92.pdf) A.
      Aiken and E. Wimmers. In *Proceedings of the Seventh Annual IEEE
      Symposium on Logic in Computer Science,*pages 329-340, June 1992.
 
 219. [Behavior of Database Production Rules: Termination, Confluence,
      and Observable
-     Determinism](http://theory.stanford.edu/~aiken/publications/papers/sigmod92.pdf).A.
+     Determinism](https://theory.stanford.edu/~aiken/publications/papers/sigmod92.pdf).A.
      Aiken, J. Widom, and J. M. Hellerstein. In *Proceedings of the ACM
      SIGMOD International Conference on Management of Data,* pages
      59-68, June 1992.
 
 220. [Implementing Regular Tree
-     Expressions.](http://theory.stanford.edu/~aiken/publications/papers/fpca91.pdf) A.
+     Expressions.](https://theory.stanford.edu/~aiken/publications/papers/fpca91.pdf) A.
      Aiken and B. Murphy. In *Proceedings of the Fifth ACM Conference on
      Functional Programming and Computer Architecture, Lecture Notes in
      Computer Science 523,* pages 427-447, August 1991.
 
 221. [Static Type Inference in a Dynamically Typed
-     Language.](http://theory.stanford.edu/~aiken/publications/papers/popl91.pdf)A.
+     Language.](https://theory.stanford.edu/~aiken/publications/papers/popl91.pdf)A.
      Aiken and B. Murphy. In *Proceedings of the Eighteenth Annual ACM
      Symposium on Principles of Programming Languages,*pages 279-290,
      January 1991.
 
 222. [Program Transformation in the Presence of
-     Errors.](http://theory.stanford.edu/~aiken/publications/papers/popl90.pdf) A.
+     Errors.](https://theory.stanford.edu/~aiken/publications/papers/popl90.pdf) A.
      Aiken, J. Williams, and E. Wimmers. In *Proceedings of the
      Seventeenth Annual ACM Symposium on Principles of Programming
      Languages,*pages 210-217, January 1990.
 
 223. [Optimal Loop
-     Parallelization](http://theory.stanford.edu/~aiken/publications/papers/pldi88.pdf).A.
+     Parallelization](https://theory.stanford.edu/~aiken/publications/papers/pldi88.pdf).A.
      Aiken and A. Nicolau.In *Proceedings of the SIGPLAN Conference on
      Programming Language Design and Implementation,*pages 308-317, June
      1988.
 
 224. [Perfect Pipelining: A New Loop Parallelization
-     Technique.](http://theory.stanford.edu/~aiken/publications/papers/esop88.pdf) A.
+     Technique.](https://theory.stanford.edu/~aiken/publications/papers/esop88.pdf) A.
      Aiken and A. Nicolau.In *Proceedings of the 1988 European Symposium
      on Programming, Lecture Notes in Computer Science 300,*pages
      221-235, March 1988.
 
 225. [A Development Environment for Horizontal
-     Microcode.](http://theory.stanford.edu/~aiken/publications/papers/micro86.pdf) A.
+     Microcode.](https://theory.stanford.edu/~aiken/publications/papers/micro86.pdf) A.
      Aiken and A. Nicolau. In *Proceedings of the Nineteenth Annual
      Workshop on Microprogramming*, pages 23-31, October 1986.
 
-#### Unrefereed Publications
+## Unrefereed Publications ##
 
-226.
 227. [Report of the CRA Working Group on Research
      Integrity](https://www.cra.org/wp-content/uploads/2023/08/Report-of-the-CRA-Working-Group-on-Research-Integrity_August-2023.pdf).A.
-     Aiken, N. Amato, K. Bowling, L. De Floriano, E. Sturler, M.
-     Gini, V. Hanson, A. Krishnamurthy, K. Larson, W. Li, M. Littman, F.
-     Ozcan, M. Russell, V. Sarkar, A. Schwartz, E. Spafford and D.
+     Aiken, N. Amato, K. Bowling, L. De Floriano, E. Sturler, M.  Gini, V. Hanson, A. Krishnamurthy,
+     K. Larson, W. Li, M. Littman, F.  Ozcan, M. Russell, V. Sarkar, A. Schwartz, E. Spafford and D.
      Srivastava. August 2023.
 228. [Advice for Program
-     Chairs](http://theory.stanford.edu/~aiken/publications/trs/ProgramChair.pdf).A.
+     Chairs](https://theory.stanford.edu/~aiken/publications/trs/ProgramChair.pdf).A.
      Aiken.*ACM Sigplan Notices*46(4), pages 19-25, April 2011.
 229. [Cool: A Portable Project for Teaching Compiler
-     Construction.](http://theory.stanford.edu/~aiken/publications/papers/sigplan96.pdf)A.
+     Construction.](https://theory.stanford.edu/~aiken/publications/papers/sigplan96.pdf)A.
      Aiken.*ACM Sigplan Notices*31(7), pages 19-26, July 1996.
 
-#### Technical Reports Not Published Elsewhere
+## Technical Reports Not Published Elsewhere ##
 
-229.
 230. [The Sequoia++ User Manual](http://sequoia.stanford.edu/).M.
      Bauer, J. Clark, E. Schkufza, and A. AikenStanford University
      Computer Science Technical Report, May 2010.
@@ -1316,25 +1311,25 @@
      Java](http://chord.stanford.edu/).M. Naik and A. Aiken.Stanford
      University Computer Science Technical Report, February 2008.
 232. [The Saturn Program Analysis
-     System](http://theory.stanford.edu/~aiken/publications/trs/saturn.pdf). A.
+     System](https://theory.stanford.edu/~aiken/publications/trs/saturn.pdf). A.
      Aiken, S. Bugrara, I. Dillig, T. Dillig, B. Hackett, and P.
      Hawkins. Stanford University Computer Science Technical Report,
      December 2006.
 233. [Building a Better Backtrace: Techniques for Postmortem Program
-     Analysis](http://theory.stanford.edu/~aiken/publications/papers/backtrace.pdf).B.
+     Analysis](https://theory.stanford.edu/~aiken/publications/papers/backtrace.pdf).B.
      Liblit and A. Aiken.UC Berkeley Computer Science Technical Report
      CSD-02-1203, October 2002.
 234. [Tracking Down Exceptions in Standard ML
-     Programs.](http://theory.stanford.edu/~aiken/publications/papers/tr98.pdf)M.
+     Programs.](https://theory.stanford.edu/~aiken/publications/papers/tr98.pdf)M.
      Fähndrich, J. Foster, A. Aiken, and J. Cu. UC Berkeley Computer
      Science Technical Report CSD-98-996, February 1998.
 235. [FL Language Manual: Parts 1 and
-     2.](http://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf)J.
+     2.](https://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf)J.
      Backus, J. Williams, E. Wimmers, P. Lucas, and A. Aiken. IBM
      Research Report RJ 7100, IBM Almaden Research Center,San Jose,
      California, October 1989.
 236. [The FL Project: The Design of a Functional
-     Language.](http://theory.stanford.edu/~aiken/publications/trs/FLProject.pdf)A.
+     Language.](https://theory.stanford.edu/~aiken/publications/trs/FLProject.pdf)A.
      Aiken, J. Williams, and E. Wimmers.September, 1993.
 237. [Compaction-Based Parallelization](http://hdl.handle.net/1813/6762)
      (Ph.D. thesis).A. Aiken.Technical Report 88-922, Computer Science

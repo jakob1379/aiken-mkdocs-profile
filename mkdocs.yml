@@ -26,7 +26,8 @@ theme:
     - navigation.expand
     - navigation.expand
     - navigation.footer
-    - navigation.indexes
+    # - navigation.indexes
+    - toc.integrate
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
@@ -69,9 +70,10 @@ plugins:
   - glightbox
 
 nav:
-  - Contact: '/#contact'
-  - FAQ: 'https://theory.stanford.edu/~aiken/personal/email.html'
-  - Publications: 'https://theory.stanford.edu/~aiken/publications/publications.html'
+  - Home: index.md
+  - Contact: '#contact'
+  - FAQ: 'personal/faq.md'
+  - Publications: 'publications/index.md'
   - Software: 'https://theory.stanford.edu/~aiken/personal/software.html'
   - Bio: 'bio.md'
   - Teaching: 'teaching.md'
