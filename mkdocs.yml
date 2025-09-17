@@ -5,6 +5,7 @@ repo_url: ''
 
 theme:
   name: 'material'
+  favicon: assets/stanford-block-s-favicon.svg
   palette:
     - scheme: default
       primary: indigo
