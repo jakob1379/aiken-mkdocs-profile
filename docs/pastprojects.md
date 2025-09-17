@@ -24,7 +24,7 @@ available:
   currently broken, sorry!), where you can try a number of different
   kinds of exercises developed for the undergraduate compiler course I
   teach.
-- Open source respositories for the [web
+- Open source repositories for the [web
   front-end](https://github.com/Ejhfast/ProofFrontend) and the [theorem
   prover back-end](https://github.com/Ejhfast/Proof-Search) if you want
   to hack on the system yourself.

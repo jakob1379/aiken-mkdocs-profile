@@ -68,7 +68,7 @@ have a son [Tim](http://timaiken.org) and a daughter
 
 - [FlexFlow](https://flexflow.ai) is a system for automatically finding fast parallelization
   strategies for deep learning training and inference. FlexFlow is built on Legion (see below).
-- [Legion](http://legion.stanford.edu) is a programming system for heterogenous, parallel machines
+- [Legion](http://legion.stanford.edu) is a programming system for heterogeneous, parallel machines
   with complex memory hierarchies.
   - A [Regent tutorial](http://theory.stanford.edu/~aiken/regent.zip)
   - A [Legion tutorial](http://theory.stanford.edu/~aiken/ecp)
