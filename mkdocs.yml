@@ -39,9 +39,11 @@ theme:
     - search.highlight
     - search.suggest
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
 
 markdown_extensions:
+  - toc:
+      permalink: true
   - admonition
   - pymdownx.details
   - pymdownx.snippets
@@ -67,7 +69,7 @@ plugins:
   - glightbox
 
 nav:
-  - Contact: 'contact.md'
+  - Contact: '/#contact'
   - FAQ: 'https://theory.stanford.edu/~aiken/personal/email.html'
   - Publications: 'https://theory.stanford.edu/~aiken/publications/publications.html'
   - Software: 'https://theory.stanford.edu/~aiken/personal/software.html'

@@ -62,7 +62,7 @@ Applying technology to software engineering problems.
 [Titanium](http://http.cs.berkeley.edu/projects/titanium): Compiler
 support for explicit parallel programming.
 
-[Cool](http://www.cs.stanford.edu/~aiken/software/cool/cool.html): A
+[Cool](software/cool/cool.md): A
 freely available course project for teaching compilers to
 undergraduates.
 
