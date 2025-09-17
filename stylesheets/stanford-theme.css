@@ -1,0 +1,124 @@
+/* Stanford brand colors applied via Material for MkDocs CSS variables
+   Cardinal Red (Pantone 201C): #8C1515
+   Palo Alto Green (Pantone 3298C): #175E54
+   Cool Gray 11C: #53565A
+*/
+
+:root {
+  /* Brand tokens */
+  --stanford-cardinal: #8C1515;
+  --stanford-cardinal-light: #A61B1B;
+  --stanford-cardinal-dark: #6D000E;
+  --stanford-palo-alto: #175E54;
+  --stanford-palo-alto-70: #175e5480;
+  --stanford-cool-gray-11: #53565A;
+
+  /* Material primary (Cardinal Red) */
+  --md-primary-fg-color: var(--stanford-cardinal);
+  --md-primary-fg-color--light: var(--stanford-cardinal-light);
+  --md-primary-fg-color--dark: var(--stanford-cardinal-dark);
+
+  /* Material accent (Palo Alto Green) */
+  --md-accent-fg-color: var(--stanford-palo-alto);
+  --md-accent-fg-color--transparent: var(--stanford-palo-alto-70);
+
+  /* Links and focus */
+  --md-typeset-a-color: var(--stanford-palo-alto);
+
+  /* Highlights */
+  --md-typeset-mark-color: #175e5426; /* subtle Palo Alto green highlight for <mark> */
+}
+
+/* Dark scheme overrides keep brand colors accessible */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--stanford-cardinal);
+  --md-primary-fg-color--light: #B21E1E;
+  --md-primary-fg-color--dark: #5B000C;
+
+  /* slightly lighter green for dark backgrounds for better contrast */
+  --md-accent-fg-color: #2BAF9A;
+  --md-typeset-a-color: #2BAF9A;
+
+  --md-typeset-mark-color: #2baf9a26;
+}
+
+/* Header logo sizing and breathing room (clear space) */
+.md-header__button.md-logo {
+  padding: 4px 12px 4px 4px; /* right-side clear space per guidance */
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 28px;   /* ensure readability at typical header size */
+  width: auto;
+}
+
+/* Improve contrast of header/footer against brand red */
+.md-header,
+.md-footer {
+  border-top: 0;
+}
+
+/* Link interactions */
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: var(--md-accent-fg-color);
+  text-decoration-color: var(--md-accent-fg-color);
+}
+
+/* Focus visibility for accessibility */
+:where(a, button, [role="button"], input, select, textarea):focus-visible {
+  outline: 3px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
+
+/* Text selection uses Cardinal red with white text */
+::selection {
+  background: var(--md-primary-fg-color);
+  color: #ffffff;
+}
+
+/* Buttons */
+.md-typeset .md-button--primary {
+  background-color: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  color: #ffffff;
+}
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus {
+  background-color: var(--md-primary-fg-color--light);
+  border-color: var(--md-primary-fg-color--light);
+}
+
+.md-typeset .md-button:not(.md-button--primary) {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+.md-typeset .md-button:not(.md-button--primary):hover,
+.md-typeset .md-button:not(.md-button--primary):focus {
+  color: #ffffff;
+  background-color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+
+/* Table header emphasis using Cool Gray */
+.md-typeset table th {
+  color: var(--stanford-cool-gray-11);
+  font-weight: 600;
+}
+
+/* Footer subtle text color */
+.md-footer .md-footer__inner {
+  color: var(--stanford-cool-gray-11);
+}
+
+/* Mobile: ensure logo remains legible */
+@media (max-width: 600px) {
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 24px;
+  }
+  .md-header__button.md-logo {
+    padding-right: 8px;
+  }
+}
