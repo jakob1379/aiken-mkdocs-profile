@@ -71,13 +71,13 @@ plugins:
 
 nav:
   - Home: index.md
-  - Contact: '#contact'
+  - Contact: '/#contact'
   - FAQ: 'personal/faq.md'
   - Publications: 'publications/index.md'
   - Software: 'software/index.md'
-  - Bio: '#bio'
-  - Teaching: 'teaching.md'
-  - Research: 'research.md'
-  - Misc: 'misc.md'
-  - Current Students: 'students.md'
+  - Bio: '/#bio'
+  - Teaching: '/#teaching'
+  - Research: '#research'
+  - Misc: '#misc'
+  - Current Students: '#students'
   - Graduated Students: 'phds.md'

@@ -61,7 +61,7 @@ been involved:
   is a framework for constructing efficient, scalable constraint-based
   program analyses. Banshee has been used in a variety of projects
   outside our group, including by gcc. UPDATE 2/2015:
-  [Here](http://theory.stanford.edu/~aiken/software/banshee.tgz) is an
+  [Here](../software/banshee.tgz) is an
   updated version of Banshee that builds on a current (as of 2015)
   32-bit Ubuntu VM. Thank you Collin Gordon!
 
@@ -89,7 +89,7 @@ been involved:
 - *[Datasplash](http://datasplash.cs.berkeley.edu/)*, a tool for
   constructing database visualizations.
 
-- [*Cool*](http://theory.stanford.edu/~aiken/software/cooldist), the
+- [*Cool*](cooldist), the
   *Classroom Object Oriented Language* , is a small language designed
   for use in an undergraduate compiler course project. While small
   enough for a one term project, Cool still has many of the features of

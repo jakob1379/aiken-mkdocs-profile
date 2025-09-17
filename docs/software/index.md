@@ -1,4 +1,4 @@
-# Alex\'s Software Page
+# Alex's Software Page
 
 I subscribe to the view that computer science researchers in the area of
 programming languages and software have two ways to disseminate their
@@ -62,7 +62,7 @@ been involved:
   constraint-based program analyses. Banshee has been used in a
   variety of projects outside our group, including by gcc. UPDATE
   2/2015:
-  [Here](software/banshee.tgz) is an
+  [Here](banshee.tgz) is an
   updated version of Banshee that builds on a current (as of 2015)
   32-bit Ubuntu VM. Thank you Collin Gordon!
 
@@ -91,7 +91,7 @@ been involved:
 - _[Datasplash](http://datasplash.cs.berkeley.edu/)_, a tool for
   constructing database visualizations.
 
-- [_Cool_](software/cooldist), the
+- [_Cool_](cooldist/), the
   _Classroom Object Oriented Language_ , is a small language designed
   for use in an undergraduate compiler course project. While small
   enough for a one term project, Cool still has many of the features

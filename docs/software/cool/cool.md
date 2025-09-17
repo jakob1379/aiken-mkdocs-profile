@@ -1,8 +1,6 @@
 # Cool: The Classroom Object-Oriented Language
 
-|     |
-|-----|
-|     |
+---
 
 *Cool* is a small language designed for use in an undergraduate compiler
 course project. While small enough for a one term project, Cool still
@@ -26,9 +24,7 @@ reference compiler and the regression tests.
 A [longer
 description](http://theory.stanford.edu/~aiken/publications/papers/sigplan96.ps)
 of the Cool compiler project is available, as are the
-[manual](http://theory.stanford.edu/~aiken/software/cool/cool-manual.pdf)
+[manual](cool-manual.pdf)
 and (on request) lecture notes from a course that used Cool.
 
-|     |
-|-----|
-|     |
+---
